@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
+title: iHonux's 2000
+email: tonyangell@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  记录2000年前后的一些事情。
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
@@ -23,8 +23,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: webjeda
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: ihonux
+   link: 'http://youth.ihonux.com'
 
 # Build settings
 permalink: /:title/
@@ -32,10 +32,10 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+analytics: 
 
 # Comments
-disqus: yes
+disqus: no
 disqus-shortname: webjeda-demo
 
 #social
@@ -43,7 +43,7 @@ facebook: http://facebook.com/
 quora: http://quora.com/
 twitter: http://twitter.com/
 github: http://github.com/
-email: your@email.com
+email: tonyangell@163.com
 
 #facebook like box
 fb-like-box: yes
