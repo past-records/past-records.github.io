@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我的网站2.0 —— 似水流年"
-date:   2003-08-01 10:00:00 +0800
+date:   2003-08-03 10:00:00 +0800
 image: /images/web/mypages-v2-small.jpg
 categories: [我的网站, 似水流年]
 ---

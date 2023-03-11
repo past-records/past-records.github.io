@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我的网站4.1 —— Kodonsoft 英文版"
-date:   2004-06-01 10:00:00 +0800
+date:   2003-08-15 10:00:00 +0800
 image: /images/web/mypages-v4-en-small.jpg
 categories: [我的网站, Koseidon, Kodonsoft]
 ---

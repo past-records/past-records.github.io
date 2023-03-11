@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我的网站4.1 —— Koseidon 中文版"
-date:   2004-05-01 10:00:00 +0800
+date:   2004-02-11 10:00:00 +0800
 image: /images/web/mypages-v4-cn-small.jpg
 categories: [我的网站, Koseidon]
 ---
