@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "我的网站3.0 —— Kodonsoft"
+title:  "我的网站3.1 —— Kodonsoft"
 date:   2003-11-01 10:00:00 +0800
 image: /images/web/mypages-v3-small.jpg
 categories: [我的网站, Kodonsoft]
 ---
 
-我的网站3.0 —— Kodonsoft 
+我的网站3.1 —— Kodonsoft 
 
-我的网站3.0 —— Kodonsoft 
+我的网站3.1 —— Kodonsoft 
 
-![我的网站3.0 —— Kodonsoft]({{site.baseurl}}/images/web/我的网站3-Kodonsoft.png)
+![我的网站3.1 —— Kodonsoft]({{site.baseurl}}/images/web/我的网站3-Kodonsoft.png)
 
 Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
 
