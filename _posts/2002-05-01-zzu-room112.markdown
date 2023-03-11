@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "112寝室主页"
+date:   2002-05-01 10:00:00 +0800
+image: /images/web/zzu-room112-small.jpg
+categories: [ZZU, 112寝室, 高分子]
+---
+
+112寝室主页
+
+112寝室主页
+
+![112寝室主页]({{site.baseurl}}/images/web/欢迎光临112寝室主页.png)
+
+
