@@ -8,8 +8,6 @@ categories: [我的网站, Koseidon, Kodonsoft]
 
 我的网站4.1 —— Kodonsoft 英文版
 
-我的网站4.1 —— Kodonsoft 英文版
-
 ![我的网站4.1 —— Kodonsoft 英文版]({{site.baseurl}}/images/web/我的网站4.1-Kodonsoft英文版.png)
 
 ![我的网站4.1 —— Kodonsoft 英文版]({{site.baseurl}}/images/web/我的网站4.1-Kodonsoft英文版2.png)

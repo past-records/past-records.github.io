@@ -6,9 +6,7 @@ image: /images/web/mypages-v3-small.jpg
 categories: [我的网站, Kodonsoft]
 ---
 
-我的网站3.1 —— Kodonsoft 
-
-我的网站3.1 —— Kodonsoft 
+我的网站3.1 —— Kodonsoft
 
 ![我的网站3.1 —— Kodonsoft]({{site.baseurl}}/images/web/我的网站3.1-Kodonsoft.png)
 

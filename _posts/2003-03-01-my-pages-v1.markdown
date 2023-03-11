@@ -6,9 +6,7 @@ image: /images/web/mypages-v1-small.jpg
 categories: [我的网站, 似水流年]
 ---
 
-我的网站1.0 —— 似水流年 
-
-我的网站1.0 —— 似水流年 
+我的网站1.0 —— 似水流年
 
 ![我的网站1.0 —— 似水流年]({{site.baseurl}}/images/web/我的网站1-似水流年.png)
 
