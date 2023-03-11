@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "Usage Guide"
-categories: jekyll update
-image: /images/image-2.png
-categories: two
+title:  "我的网站2.0 —— 似水流年"
+image: /images/web/mypages-v2-small.jpg
+categories: [我的网站, 似水流年]
 ---
+
+我的网站2.0 —— 似水流年 
+
+我的网站2.0 —— 似水流年 
+
+![我的网站2.0 —— 似水流年]({{site.baseurl}}/images/web/我的网站3-似水流年.png)
 
 Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
 
