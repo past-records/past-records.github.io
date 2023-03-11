@@ -10,6 +10,8 @@ categories: [我的网站, Koseidon]
 
 　　这里同时也是国产软件阵营的又一阵地，我将用自己的绵薄之力在这扇小小的窗口中大力宣传和支持我们的国产软件。今后，Koseidon 将和大家一起，为着民族软件事业的振兴而不断努力前行。
 
+　　从这个版本开始，我开始使用 APS + Access 制作网站，并第一次购买了虚拟空间。
+
 ![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版.png)
 
 ![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版2.png)
