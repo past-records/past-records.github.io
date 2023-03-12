@@ -1,21 +1,33 @@
 ---
 layout: post
 title:  "飞翔软件 2014"
-date:   2014-01-01 10:00:00 +0800
+date:   2014-03-18 10:00:00 +0800
 image: /images/web/volisoft-2014-small.jpg
 categories: [我的网站, Volisoft, 飞翔软件]
 ---
 
-　　飞翔软件（Volisoft）2014 版使用 WordPress 开源程序，网站进行了全新设计。
+　　飞翔软件（Volisoft）2014 版采用 WordPress 开源程序，对网站进行了全新设计。
+
+<h3>首页</h3>
 
 ![飞翔软件 2014]({{site.baseurl}}/images/web/飞翔软件2014-Volisoft-首页.png)
 
+<h3>产品下载 页面</h3>
+
 ![飞翔软件 2014]({{site.baseurl}}/images/web/飞翔软件2014-Volisoft-产品下载.png)
+
+<h3>工具下载 页面</h3>
 
 ![飞翔软件 2014]({{site.baseurl}}/images/web/飞翔软件2014-Volisoft-工具下载.png)
 
+<h3>注册购买 页面</h3>
+
 ![飞翔软件 2014]({{site.baseurl}}/images/web/飞翔软件2014-Volisoft-注册购买.png)
 
+<h3>反馈 页面</h3>
+
 ![飞翔软件 2014]({{site.baseurl}}/images/web/飞翔软件2014-Volisoft-反馈.png)
+
+<h3>关于 页面</h3>
 
 ![飞翔软件 2014]({{site.baseurl}}/images/web/飞翔软件2014-Volisoft-关于.png)
