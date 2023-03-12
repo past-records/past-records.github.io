@@ -8,8 +8,20 @@ categories: [我的网站, Volisoft, 飞翔软件]
 
 　　飞翔软件（Volisoft）2011 版的首页是模仿当年的 Microsoft 网站首页，因为在相当长的一段时间内，比尔盖茨和微软都是我崇拜的对象。网站的其他页面使用的还是 2006 版。
 
+------
+
+<h3>Volisoft 首页</h3>
+
 ![飞翔软件 2011]({{site.baseurl}}/images/web/飞翔软件2011-Volisoft-首页.png)
 
+------
+
+<h3>Volisoft 首页</h3>
+
 ![飞翔软件 2011]({{site.baseurl}}/images/web/飞翔软件2011-Volisoft-首页2.png)
+
+------
+
+<h3>Volisoft旅行社汽车线路报价管理系统 产品页</h3>
 
 ![飞翔软件 2011]({{site.baseurl}}/images/web/飞翔软件2011-旅行社汽车线路报价管理系统.png)

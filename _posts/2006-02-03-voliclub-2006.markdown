@@ -10,6 +10,14 @@ categories: [我的网站, Voliclub, 飞翔论坛]
 
 　　飞翔论坛基于当时流行的开源论坛 BBSXP 搭建。BBSXP是当年互连网上公认速度最快、系统资源占用最小的 ASP 论坛。
 
+------
+
+<h3>飞翔论坛 首页</h3>
+
 ![飞翔论坛 2006]({{site.baseurl}}/images/web/飞翔论坛2006-BBSXP-首页.png)
+
+------
+
+<h3>飞翔通讯录 & 飞翔名片王 子版块</h3>
 
 ![飞翔论坛 2006]({{site.baseurl}}/images/web/飞翔论坛2006-BBSXP-飞翔通讯录飞翔名片王.png)
