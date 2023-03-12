@@ -2,7 +2,7 @@
 layout: post
 title:  "我的网站3.1 —— Kodonsoft"
 date:   2003-08-15 10:00:00 +0800
-image: /images/web/mypages-v3-small.jpg
+image: /images/web/mypages-v3-cn-small.jpg
 categories: [我的网站, Kodonsoft]
 ---
 
