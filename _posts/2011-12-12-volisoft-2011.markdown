@@ -4,6 +4,7 @@ title:  "飞翔软件 2011"
 date:   2011-12-12 10:00:00 +0800
 image: /images/web/volisoft-2011-small.jpg
 categories: [我的网站, Volisoft, 飞翔软件]
+sidebar: no
 ---
 
 　　飞翔软件（Volisoft）2011 版的首页是模仿当年的 Microsoft 网站首页，因为在相当长的一段时间内，比尔盖茨和微软都是我崇拜的对象。网站的其他页面使用的还是 2006 版。

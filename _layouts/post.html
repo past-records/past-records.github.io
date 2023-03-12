@@ -48,7 +48,7 @@ layout: default
     </div>
   </div>
 
-  {% include sidebar.html %}
+  {% if page.sidebar %} {% include sidebar.html %} {% endif %}
 </div>
 
 {% include fb-script.html %}
