@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "飞翔论坛 2006"
+date:   2006-02-03 10:00:00 +0800
+image: /images/web/voliclub-2006-small.jpg
+categories: [我的网站, Voliclub, 飞翔论坛]
+---
+
+　　飞翔论坛（Voliclub）作为“我心飞翔”母网站的一个组成部分，在 2006 年春节期间开通运行。
+
+![飞翔论坛 2006]({{site.baseurl}}/images/web/飞翔论坛2006-BBSXP-首页.png)
+
+![飞翔论坛 2006]({{site.baseurl}}/images/web/飞翔论坛2006-BBSXP-飞翔通讯录飞翔名片王.png)
