@@ -6,7 +6,7 @@ image: /images/web/zz11z-003-v5-small.jpg
 categories: [郑州十一中, 003]
 ---
 
-郑州十一中003班主页 5.0
+　　这是郑州十一中003班主页的最后一个版本，里面已经包含了好几个 Flash 动画。
 
 ![郑州十一中003班主页 5.0]({{site.baseurl}}/images/web/郑州十一中003班主页V5-1.png)
 
