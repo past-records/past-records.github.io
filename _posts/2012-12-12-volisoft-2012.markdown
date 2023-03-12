@@ -6,7 +6,7 @@ image: /images/web/volisoft-2012-small.jpg
 categories: [我的网站, Volisoft, 飞翔软件]
 ---
 
-　　飞翔软件（Volisoft）2012版
+　　飞翔软件（Volisoft）2012 版使用了全新的模板，对首页和当时的主要产品页面进行了全新的包装。其他的页面继续使用 2011 版的内容。
 
 ![飞翔软件 2012]({{site.baseurl}}/images/web/飞翔软件2012-0.png)
 
