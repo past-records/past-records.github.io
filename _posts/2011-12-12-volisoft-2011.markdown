@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "飞翔软件 2011"
+date:   2011-12-12 10:00:00 +0800
+image: /images/web/volisoft-2011-small.jpg
+categories: [我的网站, Volisoft, 飞翔软件]
+---
+
+　　
+
+![飞翔软件 2011]({{site.baseurl}}/images/web/飞翔软件2011-Volisoft-首页.png)
+
+![飞翔软件 2011]({{site.baseurl}}/images/web/飞翔软件2011-Volisoft-首页2.png)
