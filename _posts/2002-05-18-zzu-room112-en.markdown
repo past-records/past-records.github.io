@@ -6,7 +6,7 @@ image: /images/web/zzu-room112-en-small.jpg
 categories: [ZZU, 112寝室, 高分子]
 ---
 
-　　112寝室主页始建于2001年12月22日，曾经拥有2个站点空间：http://zzu112qs.home.chinaren.con 和 http://www.gizba.com/user/zzu112qs 。
+　　112寝室主页始建于2001年12月22日，曾经拥有2个站点空间：http://zzu112qs.home.chinaren.com 和 http://www.gizba.com/user/zzu112qs 。
 
 ![112寝室主页英文版]({{site.baseurl}}/images/web/欢迎光临112寝室主页英文版.png)
 
