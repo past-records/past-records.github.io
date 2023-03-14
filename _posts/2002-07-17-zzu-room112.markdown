@@ -8,7 +8,7 @@ categories: [ZZU, 112寝室, 高分子]
 
 　　这是我大学前两年在高分子材料与工程专业学习时的寝室主页。当年互联网方兴未艾，个人建站是个非常时髦的事情。自从买了电脑以后，我也热衷于学习各种建站技术。
 
-　　112寝室主页始建于2001年12月22日，曾经拥有2个站点空间：http://zzu112qs.home.chinaren.con 和 http://www.gizba.com/user/zzu112qs 。
+　　112寝室主页始建于2001年12月22日，曾经拥有2个站点空间：http://zzu112qs.home.chinaren.com 和 http://www.gizba.com/user/zzu112qs 。
 
 ![112寝室主页]({{site.baseurl}}/images/web/欢迎光临112寝室主页.png)
 
