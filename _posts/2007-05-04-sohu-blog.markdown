@@ -14,7 +14,7 @@ categories: [博客, Blog, 月夜我飞翔]
 
 <h3>首页</h3>
 
-![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客-首页.png)
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客-首页.png) 
 
 ------
 
