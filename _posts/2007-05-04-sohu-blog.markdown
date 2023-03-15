@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "搜狐博客-月夜我飞翔"
+date:   2007-05-04 10:00:00 +0800
+image: /images/blog/sohu-blog-small.jpg
+categories: [博客, Blog, 月夜我飞翔]
+---
+
+　　月夜我飞翔——注视我的目光，聆听我的心扉，感受我的思绪，共享我的人生。
+
+　　那时候个人网站已经过时，博客蓬勃兴起，我也建立了自己的博客。最早在 MSN Space，后来全部迁移到了 Sohu 博客。为了保存这段美好的记忆，博客中的内容已经下载保存并汇编成集。读着那些文字，回忆起了很多很多往事。这些都是逝去的青春记忆，多么美好！此时的我不会再去向往，那青涩的纯洁的事物，不会去享受无忧无虑的美好生活，如今我只能去纪念那逝去的青春，用这淡淡的文字，默默纪念那美好的回忆。纪念过去，不是为了感伤，而是为了现在寻求一种感觉。如同一遍遍地重温同一个梦境，不为别的，只想看得更清。
+
+------
+
+<h3>首页</h3>
+
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell.blog.sohu.com_首页.png)
+
+------
+
+<h3>日志 第1页</h3>
+
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell.blog.sohu.com_P1.png)
+
+------
+
+<h3>日志 第2页</h3>
+
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell.blog.sohu.com_P2.png)
+
+------
+
+<h3>日志 第3页</h3>
+
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell.blog.sohu.com_P3.png)
+
+------
