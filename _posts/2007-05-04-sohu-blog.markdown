@@ -14,24 +14,24 @@ categories: [博客, Blog, 月夜我飞翔]
 
 <h3>首页</h3>
 
-![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客-首页.png) 
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客-首页.jpg) 
 
 ------
 
 <h3>日志 第1页</h3>
 
-![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell_blog_sohu_com_P1.jpg)
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客1.jpg)
 
 ------
 
 <h3>日志 第2页</h3>
 
-![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell_blog_sohu_com_P2.jpg)
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客2.jpg)
 
 ------
 
 <h3>日志 第3页</h3>
 
-![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/20070504_tonyangell_blog_sohu_com_P3.jpg)
+![搜狐博客-月夜我飞翔]({{site.baseurl}}/images/blog/月夜我飞翔-搜狐博客3.jpg)
 
 ------
