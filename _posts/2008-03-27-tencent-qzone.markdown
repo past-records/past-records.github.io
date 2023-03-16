@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "QQ空间-笑傲"
 date:   2008-03-27 10:00:00 +0800
 image: /images/qzone/tencent-qzone-small.jpg
