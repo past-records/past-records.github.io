@@ -6,7 +6,7 @@ image: /images/weibo/sina-weibo-small.jpg
 categories: [微博, Weibo, iHonux]
 ---
 
-　　微博
+　　2010年国内微博迎来春天，微博像雨后春笋般崛起。四大门户网站均开设微博。我于2011年开通新浪微博，但一直以来发的内容很少。
 
 ------
 
