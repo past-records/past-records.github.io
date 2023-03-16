@@ -7,7 +7,7 @@ categories: [QQ空间, qzone, 笑傲]
 sidebar: "no"
 ---
 
-　　QQ空间-笑傲。
+　　QQ空间-笑傲：http://85515844.qzone.qq.com 。
 
 ------
 
