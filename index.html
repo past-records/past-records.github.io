@@ -46,7 +46,7 @@ layout: default
               </li>
             {% elsif page == 1 %}
               <li class="page-item">
-                <a class="page-link" href="{{ site.url | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+                <a class="page-link" href="{{ site.url | replace: '//', '/' }}">{{ page }}</a>
               </li>
             {% else %}
               <li class="page-item">
