@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "飞翔通讯录（从1.0到4.0）"
+date:   2005-12-25 10:00:00 +0800
+image: /images/software/friends-small.jpg
+categories: [飞翔通讯录, Friends]
+---
+
+　　飞翔通讯录（从1.0到4.0）
+
+------
+
+<h3>飞翔通讯录 1.0</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V1_0_1-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V1_0_1-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V1_0_1-03.jpg)
+
+------
+
+<h3>飞翔通讯录 1.1</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V1_1_3-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V1_1_3-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V1_1_3-03.jpg)
+
+------
+
+<h3>飞翔通讯录 2.0</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_0_2-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_0_2-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_0_2-02.jpg)
+
+------
+
+<h3>飞翔通讯录 2.6</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_6_2007_611-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_6_2007_611-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_6_2007_611-03.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_6_2007_611-04.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_6_2007_611-05.jpg)
+
+------
