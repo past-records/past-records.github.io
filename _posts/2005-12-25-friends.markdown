@@ -40,7 +40,7 @@ categories: [飞翔通讯录, Friends]
 
 ![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_0_2-02.jpg)
 
-![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_0_2-02.jpg)
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_0_2-03.jpg)
 
 ------
 
