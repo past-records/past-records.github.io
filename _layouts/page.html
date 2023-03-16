@@ -12,7 +12,9 @@ layout: default
       <div class="post-content">{{ content }}</div>
     </article>
   </div>
-  {% include sidebar.html %}
+  {% if page.sidebar == "yes" %}
+    {% include sidebar.html %}
+  {% endif %}
 </div>
 
 {% include fb-script.html %}
