@@ -6,7 +6,7 @@ image: /images/qzone/tencent-qzone-small.jpg
 categories: [QQ空间, qzone, 笑傲]
 ---
 
-　　QQ空间-笑傲：http://85515844.qzone.qq.com 。
+　　QQ空间-笑傲：http://85515844.qzone.qq.com 。我大概是从 2008 年开始在 QQ 空间上记录生活，随着近些年 QQ 的没落，我已经很少在上面更新。
 
 ------
 
