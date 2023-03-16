@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "搜狐博客-月夜我飞翔"
 date:   2007-05-04 10:00:00 +0800
 image: /images/blog/sohu-blog-small.jpg
