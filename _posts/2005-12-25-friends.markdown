@@ -53,3 +53,41 @@ categories: [飞翔通讯录, Friends]
 ![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_6_2007_611-05.jpg)
 
 ------
+
+<h3>飞翔通讯录 2.8</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_8_2007_1010-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_8_2007_1010-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_8_2007_1010-03.jpg)
+
+------
+
+<h3>飞翔通讯录 2.9</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_9_2007_1101-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_9_2007_1101-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V2_9_2007_1101-03.jpg)
+
+------
+
+<h3>飞翔通讯录 3.0</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V3_0_2008_109-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V3_0_2008_109-02.jpg)
+
+------
+
+<h3>飞翔通讯录 3.2</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V3_2_2008_522-01.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V3_2_2008_522-02.jpg)
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V3_2_2008_522-03.jpg)
+
+------
