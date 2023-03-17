@@ -63,6 +63,7 @@ categories: [历史上的今天, 万年历]
 | 2003年7月10日	 | 《超级万年历 V 5.0.2》| Windows版	| C++ Builder 5.0编写  | 
 | 2003年7月11日	 | 《超级万年历 V 5.0.3》| Windows版    | C++ Builder 5.0编写  | 
 | 2004年12月25日 | 《超级万年历 V 5.1.0》| Windows版    | C++ Builder 5.0编写  | 
+{: .table .table-striped .table-hover}
 
 ------
 
