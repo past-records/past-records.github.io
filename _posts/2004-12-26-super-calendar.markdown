@@ -96,3 +96,15 @@ categories: [历史上的今天, 万年历]
 ![超级万年历]({{site.baseurl}}/images/software/YMD_V3_05a-03.jpg)
 
 ------
+
+<h3>超级万年历 3.03</h3>
+
+![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-01.gif)
+
+![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-02.gif)
+
+![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-03.gif)
+
+![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-04.gif)
+
+------
