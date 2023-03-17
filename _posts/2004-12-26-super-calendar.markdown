@@ -17,6 +17,32 @@ categories: [历史上的今天, 万年历]
         <li>在线升级支持断点续传。</li>
         <li>软件结构重大调整，修改、添加了一些模块。</li>
     </ul>
+    <h4>5.0.3版本特点：</h4>
+    <ul> 
+        <li>在5.0.2版本基础之上，增加了对历史上重大事件的查询。</li>
+    </ul>
+    <h4>5.0.2版本特点：</h4>
+    <ul> 
+        <li>在5.0.1版本基础之上，增加了对XP风格控件(COMCTL32.DLL 6.0)的支持。</li>
+        <li>支持透明窗口(仅限Windows 2000或Windows XP)。</li>
+        <li>支持使窗口总保持在最上面。</li>
+    </ul>
+    <h4>5.0.1版本特点：</h4>
+    <ul> 
+        <li>重新编写代码，编写了一个万年历类，Borland C++ Builder 5.0编写，增加了 XP风格日历。</li>
+    </ul>
+    <h4>4.0.1版本特点：</h4>
+    <ul> 
+        <li>增加了XP风格界面，和语音报时功能。</li>
+    </ul>
+    <h4>4.0.1版本特点：</h4>
+    <ul> 
+        <li>修正了 4.00版本的一处错误，增加了“完全模式”和“精简模式”切换的功能，并使窗口总在最前面。</li>
+    </ul>
+    <h4>4.00版本特点：</h4>
+    <ul> 
+        <li>重新编写代码，用Visual Basic 6.0编写，增加了闹钟功能并删除了一些没用的功能。</li>
+    </ul>
 </div>
 
 ------
@@ -35,9 +61,9 @@ categories: [历史上的今天, 万年历]
 
 ![万年历]({{site.baseurl}}/images/software/Calendar-V4_0_2-01.jpg)
 
-![万年历]({{site.baseurl}}/images/software/Calendar-V4_0_2-02.jpg)
-
 ![万年历]({{site.baseurl}}/images/software/Calendar-V4_0_2-03.jpg)
+
+![万年历]({{site.baseurl}}/images/software/Calendar-V4_0_2-02.jpg)
 
 ------
 
