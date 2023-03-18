@@ -105,7 +105,7 @@ categories: [历史上的今天, 万年历]
 
 ------
 
-<h3>超级万年历 3.03</h3>
+<h3>超级万年历 3.0.3</h3>
 
 ![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-01.gif)
 
