@@ -107,16 +107,18 @@ categories: [历史上的今天, 万年历]
 
 <h3>超级万年历 3.0.3</h3>
 
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-01.gif)
+![超级万年历 启动屏幕]({{site.baseurl}}/images/software/YMD-V3_03-01.gif)
 
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-02.gif)
+![超级万年历 菜单]({{site.baseurl}}/images/software/YMD-V3_03-02.gif)
 
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-02b.gif)
+![超级万年历 公历转农历]({{site.baseurl}}/images/software/YMD-V3_03-02b.gif)
 
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-03.gif)
+![超级万年历 农历转公历]({{site.baseurl}}/images/software/YMD-V3_03-03.gif)
 
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-04.gif)
+![超级万年历 幸福时钟]({{site.baseurl}}/images/software/YMD-V3_03-04.gif)
 
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_03-05.gif)
+![超级万年历 帮助]({{site.baseurl}}/images/software/YMD-V3_03-06.gif)
+
+![超级万年历 再见屏幕]({{site.baseurl}}/images/software/YMD-V3_03-05.gif)
 
 ------
