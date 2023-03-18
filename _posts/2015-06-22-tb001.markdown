@@ -55,3 +55,21 @@ categories: [手摇幻灯机, 电影机]
 ![手摇幻灯放映机 TB001型]({{site.baseurl}}/images/something/TB001-11.jpg)
 
 ------
+
+<h3>胶片</h3>
+
+![手摇幻灯放映机 TB001型 胶片]({{site.baseurl}}/images/something/TB001-Film-01.jpg)
+
+------
+
+![手摇幻灯放映机 TB001型 胶片]({{site.baseurl}}/images/something/TB001-Film-02.jpg)
+
+------
+
+![手摇幻灯放映机 TB001型 胶片]({{site.baseurl}}/images/something/TB001-Film-03.jpg)
+
+------
+
+![手摇幻灯放映机 TB001型 胶片]({{site.baseurl}}/images/something/TB001-Film-04.jpg)
+
+------
