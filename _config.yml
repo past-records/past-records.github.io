@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: iHonux's Time Machine | iHonux 的时光机
+title: iHonux's Time Machine || iHonux 的时光机
 email: tonyangell@163.com
 description: > # this means to ignore newlines until "baseurl:"
   记录2000年以来利用业余时间做的一些事情，向美好的青春时光致敬。
