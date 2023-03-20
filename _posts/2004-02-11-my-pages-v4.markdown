@@ -12,7 +12,7 @@ categories: [我的网站, Koseidon]
 
 　　从这个版本开始，我开始使用 APS + Access 制作网站，申请了几个免费的二级域名。
 
-本站曾经使用过的域名
+本站曾经使用过的域名：
 
 - http://www.koseidon.cn.st （推荐 国际）
 - http://www.koseidon.hk.st （推荐 国际）
