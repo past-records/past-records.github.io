@@ -14,15 +14,15 @@ categories: [我的网站, Koseidon]
 
 本站曾经使用过的域名
 
-    http://www.koseidon.cn.st （推荐 国际）
-    http://www.koseidon.hk.st （推荐 国际）
-    http://www.koseidon.tw.st （推荐 国际）
-    http://koseidon.533.net （推荐 国内）
-    http://koseidonsoft.533.net （国内）
-    http://koseidon21cn.533.net （国内）
-    http://koseidon.126.com （中国台湾）
-    http://www.starblvd.com/koseidon （中国台湾）
-    http://freehost11.websamba.com/koseidon21cn （国际）
+- http://www.koseidon.cn.st （推荐 国际）
+- http://www.koseidon.hk.st （推荐 国际）
+- http://www.koseidon.tw.st （推荐 国际）
+- http://koseidon.533.net （推荐 国内）
+- http://koseidonsoft.533.net （国内）
+- http://koseidon21cn.533.net （国内）
+- http://koseidon.126.com （中国台湾）
+- http://www.starblvd.com/koseidon （中国台湾）
+- http://freehost11.websamba.com/koseidon21cn （国际）
 
 
 ![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版.png)
