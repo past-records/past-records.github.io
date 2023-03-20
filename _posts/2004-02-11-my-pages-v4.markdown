@@ -10,11 +10,28 @@ categories: [我的网站, Koseidon]
 
 　　站长承相着建立网站、维护网站的全部任务，整合了当今 Internet 的部分资源及站长个人的无偿公开的自己的编程作品的最有效资源，该站点是站长今后成长战略中的一个重要角色。这里同时也是国产软件阵营的又一阵地，我将用自己的绵薄之力在这扇小小的窗口中大力宣传和支持我们的国产软件。今后，Koseidon 将和大家一起，为着民族软件事业的振兴而不断努力前行。
 
-　　从这个版本开始，我开始使用 APS + Access 制作网站，当时使用的域名是 www.koseidon.cn.st ，是免费的二级域名。
+　　从这个版本开始，我开始使用 APS + Access 制作网站，申请了几个免费的二级域名。
+
+本站曾经使用过的域名
+
+    http://www.koseidon.cn.st （推荐 国际）
+    http://www.koseidon.hk.st （推荐 国际）
+    http://www.koseidon.tw.st （推荐 国际）
+    http://koseidon.533.net （推荐 国内）
+    http://koseidonsoft.533.net （国内）
+    http://koseidon21cn.533.net （国内）
+    http://koseidon.126.com （中国台湾）
+    http://www.starblvd.com/koseidon （中国台湾）
+    http://freehost11.websamba.com/koseidon21cn （国际）
+
 
 ![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版.png)
 
 ![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版2.png)
 
 ![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版3.png)
+
+![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版4.png)
+
+![我的网站4.1 —— Koseidon 中文版]({{site.baseurl}}/images/web/我的网站4.1-Koseidon中文版5.png)
 
