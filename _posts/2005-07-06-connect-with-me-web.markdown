@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "Connect With Me（Web）"
 date:   2005-07-06 10:00:00 +0800
 image: /images/web/connect-with-me-web-small.jpg
