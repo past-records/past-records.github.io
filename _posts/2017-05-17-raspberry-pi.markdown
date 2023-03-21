@@ -16,6 +16,12 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 ![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-02.jpg)
 
+![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-04.jpg)
+
+------
+
 <h3>人脸识别</h3>
 
 ![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-03.jpg)
+
+------
