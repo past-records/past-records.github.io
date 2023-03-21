@@ -28,21 +28,31 @@ categories: [通讯录, Connect With Me, Web]
 
 <div class="row">
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-1_s.jpg">
+        <a href="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-1.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-1_s.jpg">
+        </a>
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-2_s.jpg">
+        <a href="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-2.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-2_s.jpg">
+        </a>
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-3_s.jpg">
+        <a href="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-3.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-3_s.jpg">
+        </a>
     </div>
 </div>
 <div class="row">
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-4_s.jpg">
+        <a href="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-4.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-4_s.jpg">
+        </a>
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-5_s.jpg">
+        <a href="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-5.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-5_s.jpg">
+        </a>
     </div>
     <div class="col-md-4">
     </div>
@@ -71,8 +81,8 @@ categories: [通讯录, Connect With Me, Web]
 </div>
 <div class="row">
     <div class="col-md-4">
-        <a ref="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4.png" target="_blank">
-            <img class="thumbnail" hsrc="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4_s.jpg">
+        <a href="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
