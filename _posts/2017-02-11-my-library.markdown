@@ -16,8 +16,6 @@ categories: [我的图书馆, 软件]
 
 ![我的图书馆]({{site.baseurl}}/images/software/我的图书馆-电脑-1.jpg)
 
-------
-
 ![我的图书馆]({{site.baseurl}}/images/software/我的图书馆-电脑-2.jpg)
 
 ------
