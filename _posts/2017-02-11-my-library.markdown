@@ -27,24 +27,24 @@ categories: [我的图书馆, 软件]
 <div class="row">
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/software/我的图书馆-手机-1.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/我的图书馆-手机-1.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/我的图书馆-手机-1.jpg">
         </a>
     </div>
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/software/我的图书馆-手机-2.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/我的图书馆-手机-2.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/我的图书馆-手机-2.jpg">
         </a>
     </div>
 </div>
 <div class="row">
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/software/我的图书馆-手机-3.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/我的图书馆-手机-3.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/我的图书馆-手机-3.jpg">
         </a>
     </div>
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/software/我的图书馆-手机-4.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/我的图书馆-手机-4.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/我的图书馆-手机-4.jpg">
         </a>
     </div>
 </div>
