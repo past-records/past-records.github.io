@@ -132,4 +132,29 @@ categories: [飞翔通讯录, Friends]
 
 ![飞翔通讯录]({{site.baseurl}}/images/software/Friends-Logo-V4_0.png)
 
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/Friends-Logo-V2_5.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/Friends-Logo-V2_5.png">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/Friends-Logo-V3_2.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/Friends-Logo-V3_2.png">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/Friends-Logo-V3_9.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/Friends-Logo-V3_9.png">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/Friends-Logo-V4_0.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/Friends-Logo-V4_0.png">
+        </a>
+    </div>
+</div>
+
 ------
