@@ -22,7 +22,7 @@ categories: [通讯录, Connect With Me, Web]
 
 ------
 
-<h3>郑州市第十一中学2000界3班通讯录</h3>
+<h3>郑州市第十一中学2000届3班通讯录</h3>
 
 ![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-11003-0.png)
 
@@ -34,7 +34,7 @@ categories: [通讯录, Connect With Me, Web]
 
 ------
 
-<h3>郑州市第四十五中学1997界六班通讯录</h3>
+<h3>郑州市第四十五中学1997届六班通讯录</h3>
 
 ![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-45976-0.png)
 

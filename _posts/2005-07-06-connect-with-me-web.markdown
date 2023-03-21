@@ -28,21 +28,21 @@ categories: [通讯录, Connect With Me, Web]
 
 <div class="row">
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-1.png">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-1_s.jpg">
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-2.png">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-2_s.jpg">
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-3.png">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-3_s.jpg">
     </div>
 </div>
 <div class="row">
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-4.png">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-4_s.jpg">
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-5.png">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-11003-5_s.jpg">
     </div>
     <div class="col-md-4">
     </div>
@@ -54,21 +54,21 @@ categories: [通讯录, Connect With Me, Web]
 
 <div class="row">
     <div class="col-md-4">
-        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-1.png"></p>
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-1_s.jpg"></p>
     </div>
     <div class="col-md-4">
-        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-2.png"></p>
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-2_s.jpg"></p>
     </div>
     <div class="col-md-4">
-        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-3.png"></p>
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-3_s.jpg"></p>
     </div>
 </div>
 <div class="row">
     <div class="col-md-4">
-        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4.png"></p>
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4_s.jpg"></p>
     </div>
     <div class="col-md-4">
-        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-5.png"></p>
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-5_s.jpg"></p>
     </div>
     <div class="col-md-4">
     </div>
