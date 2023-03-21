@@ -24,13 +24,30 @@ categories: [通讯录, Connect With Me, Web]
 
 <h3>郑州市第十一中学2000届3班通讯录</h3>
 
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-11003-0.png)
-
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-11003-1.png)
-
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-11003-1b.png)
-
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-11003-2.png)
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-11003-0.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-11003-0_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-11003-2.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-11003-2_s.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-11003-1.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-11003-1_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-11003-1b.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-11003-1b_s.jpg">
+        </a>
+    </div>
+</div>
 
 ------
 
@@ -39,24 +56,24 @@ categories: [通讯录, Connect With Me, Web]
 <div class="row">
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-0.png" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-0.png">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-0_s.jpg">
         </a>
     </div>
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-1.png" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-1.png">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-2.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-2_s.jpg">
         </a>
     </div>
 </div>
 <div class="row">
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-1b.png" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-1b.png">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-1.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-1_s.jpg">
         </a>
     </div>
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-2.png" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-2.png">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-1b.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-1b_s.jpg">
         </a>
     </div>
 </div>
