@@ -26,6 +26,7 @@ categories: [历史上的今天, 万年历]
 | 2003年7月10日	 | 《超级万年历 V 5.0.2》| Windows版	| C++ Builder 5.0编写  | 
 | 2003年7月11日	 | 《超级万年历 V 5.0.3》| Windows版    | C++ Builder 5.0编写  | 
 | 2004年12月25日 | 《超级万年历 V 5.1.0》| Windows版    | C++ Builder 5.0编写  | 
+| 2006年2月19日  | 《飞翔万年历 V 6.2.0》| Windows版    | C++ Builder 6.0编写  | 
 {: .table .table-striped .table-hover}
 
 <div class="jumbotron">
@@ -63,6 +64,45 @@ categories: [历史上的今天, 万年历]
     <ul> 
         <li>重新编写代码，用Visual Basic 6.0编写，增加了闹钟功能并删除了一些没用的功能。</li>
     </ul>
+</div>
+
+------
+
+<h3>飞翔万年历 6.2</h3>
+
+<div class="row">
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/software/SupCalendar-V6_2-01.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/SupCalendar-V6_2-01.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/software/SupCalendar-V6_2-02.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/SupCalendar-V6_2-02.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/software/SupCalendar-V6_2-03.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/SupCalendar-V6_2-03.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/software/SupCalendar-V6_2-04.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/SupCalendar-V6_2-04.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/software/SupCalendar-V6_2-05.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/SupCalendar-V6_2-05.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/software/SupCalendar-V6_2-06.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/SupCalendar-V6_2-06.jpg">
+        </a>
+    </div>
 </div>
 
 ------
