@@ -51,3 +51,17 @@ categories: [通讯录, Connect With Me, Web]
 ![Connect With Me（Web）]({{site.baseurl}}/images/web/ConnectWithMe-Web-45976-5.png)
 
 ------
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-1.png">
+    </div>
+    <div class="col-md-4">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-2.png">
+    </div>
+    <div class="col-md-4">
+        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-3.png">
+    </div>
+</div>
+
+------
