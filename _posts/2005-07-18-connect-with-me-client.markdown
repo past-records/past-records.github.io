@@ -36,12 +36,29 @@ categories: [通讯录, Connect With Me, Web]
 
 <h3>郑州市第四十五中学1997届六班通讯录</h3>
 
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-45976-0.png)
-
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-45976-1.png)
-
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-45976-1b.png)
-
-![Connect With Me（客户端）]({{site.baseurl}}/images/software/ConnectWithMe-45976-2.png)
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-0.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-0.png">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-1.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-1.png">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-1b.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-1b.png">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/ConnectWithMe-45976-2.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/ConnectWithMe-45976-2.png">
+        </a>
+    </div>
+</div>
 
 ------
