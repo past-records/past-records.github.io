@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "与 QQ 有关的软件"
+date:   2004-09-18 10:00:00 +0800
+image: /images/software/qq-tools-small.jpg
+categories: [QQ, 软件]
+---
+
+　　 与 QQ 有关的软件。
+
+------
+
+<h3>心动QQ文字</h3>
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/QQChar-1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/QQChar-1.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/QQChar-2.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/QQChar-2.jpg">
+        </a>
+    </div>
+</div>
+
+------
+
+<h3>QQ绚丽魔法表情</h3>
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/QQMagic-1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/QQMagic-1.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/QQMagic-2.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/QQMagic-2.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/QQMagic-3.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/QQMagic-3.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/software/QQMagic-4.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/software/QQMagic-4.jpg">
+        </a>
+    </div>
+</div>
+
+------
