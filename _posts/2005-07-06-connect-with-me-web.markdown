@@ -54,21 +54,21 @@ categories: [通讯录, Connect With Me, Web]
 
 <div class="row">
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-1.png">
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-1.png"></p>
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-2.png">
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-2.png"></p>
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-3.png">
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-3.png"></p>
     </div>
 </div>
 <div class="row">
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4.png">
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-4.png"></p>
     </div>
     <div class="col-md-4">
-        <img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-5.png">
+        <p><img src="{{site.baseurl}}/images/web/ConnectWithMe-Web-45976-5.png"></p>
     </div>
     <div class="col-md-4">
     </div>
