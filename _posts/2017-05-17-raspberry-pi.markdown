@@ -6,7 +6,7 @@ image: /images/something/raspberry-pi-small.jpg
 categories: [树莓派, 电脑, Raspberry Pi]
 ---
 
-　　这时我已经拥有了3个不同型号的树莓派：1B、1B+和2B，也进行了一些与树莓派相关的探索。主要有二自由度的视频监控、人脸识别等。
+　　这时我已经拥有了3个不同型号的树莓派：Raspberry Pi Model B、Raspberry Pi Model B+ 和 Raspberry Pi 2 Model B，也进行了一些与树莓派相关的探索。主要有二自由度的视频监控、人脸识别、微信打印机、多媒体展示系统等。
 
 ------
 
@@ -23,5 +23,13 @@ categories: [树莓派, 电脑, Raspberry Pi]
 <h3>人脸识别</h3>
 
 ![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-03.jpg)
+
+------
+
+<h3>多媒体展示系统</h3>
+
+![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-05.jpg)
+
+[多媒体展示系统介绍](https://www.ihonux.com/%E5%A4%9A%E5%AA%92%E4%BD%93/media-display-system/)
 
 ------
