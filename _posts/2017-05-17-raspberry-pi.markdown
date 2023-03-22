@@ -30,6 +30,6 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 ![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-05.jpg)
 
-[多媒体展示系统介绍](https://www.ihonux.com/%E5%A4%9A%E5%AA%92%E4%BD%93/media-display-system/)
+[多媒体展示系统介绍](https://www.ihonux.com/%E5%A4%9A%E5%AA%92%E4%BD%93/media-display-system/){: target="\_blank"}
 
 ------
