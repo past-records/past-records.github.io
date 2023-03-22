@@ -2,6 +2,7 @@
 layout: page
 title: 联系我
 permalink: /contact/
+image: /images/contact-small.jpg
 ---
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xvonbrqw" method="post">

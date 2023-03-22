@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 permalink: /about/
-image: /images/web/about-small.jpg
+image: /images/about-small.jpg
 ---
 
 　　iHonux's Time Machine（iHonux 的时光机）子站点建于2023年3月11日星期六。建站初衷是用来回顾并记录站长2000年以来的利用业余时间捣鼓的一些事情，向奋斗的时光致敬。但是，此时的我不会再去向往那青涩的纯洁的事物，不会去享受无忧无虑的美好生活，如今我只能去纪念那逝去的青春，用这淡淡的文字，默默纪念那美好的回忆。纪念过去，不是为了感伤，而是为了现在寻求一种感觉。如同一遍遍地重温同一个梦境，不为别的，只想看得更清。
