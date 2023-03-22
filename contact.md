@@ -12,7 +12,7 @@ permalink: /contact/
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">消息</label>
     <textarea rows="5" name="message" id="message" placeholder="Your Message." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="hidden" name="_subject" id="email-subject" value="来自 iHonux's Time Machine 的反馈">
   </fieldset>
   <input type="submit" value="提交">
 </form>
