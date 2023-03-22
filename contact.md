@@ -17,8 +17,9 @@ permalink: /contact/
   <input type="submit" value="提交">
 </form>
 
+<p>　</p>
 <div class="jumbotron">
-  <p>想了解更多信息，请访问主站 [iHonux’s Projects](https://www.ihonux.com){: target="\_blank"} 。在访问本站过程中，您如果遇到问题请通过上面的表单给我留言，或者给我发电子邮件：<tonyangell@163.com> 。</p>
+  <p>想了解更多信息，请访问主站 <a href="https://www.ihonux.com" targer="_blank">iHonux’s Projects</a> 。在访问本站过程中，您如果遇到问题请通过上面的表单给我留言，或者给我发电子邮件：<a href="mailto:tonyangell@163.com">tonyangell@163.com</a> 。</p>
 </div>
 
 <style>/* reset */
