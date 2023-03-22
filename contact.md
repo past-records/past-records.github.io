@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 联系
+title: 联系我
 permalink: /contact/
 ---
 
@@ -14,8 +14,12 @@ permalink: /contact/
     <textarea rows="5" name="message" id="message" placeholder="Your Message." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="submit" value="提交">
 </form>
+
+<div class="jumbotron">
+  <p>想了解更多信息，请访问主站 [iHonux’s Projects](https://www.ihonux.com){: target="\_blank"} 。在访问本站过程中，您如果遇到问题请通过上面的表单给我留言，或者给我发电子邮件：<tonyangell@163.com> 。</p>
+</div>
 
 <style>/* reset */
 #fs-frm input,
