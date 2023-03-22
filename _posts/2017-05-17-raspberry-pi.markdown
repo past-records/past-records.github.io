@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "与树莓派相关的探索"
+title:  "与树莓派有关的探索"
 date:   2017-05-17 10:00:00 +0800
 image: /images/something/raspberry-pi-small.jpg
 categories: [树莓派, 电脑, Raspberry Pi]
 ---
 
-　　这时我已经拥有了3个不同型号的树莓派：Raspberry Pi Model B、Raspberry Pi Model B+ 和 Raspberry Pi 2 Model B，也进行了一些与树莓派相关的探索。主要有二自由度的视频监控、人脸识别、微信打印机、多媒体展示系统等。
+　　树莓派是一款只有信用卡大小，采用 ARM 处理器的卡片电脑，能够进行很多创意探索。这时我已经拥有了3个不同型号的树莓派：Raspberry Pi Model B、Raspberry Pi Model B+ 和 Raspberry Pi 2 Model B，也进行了一些与树莓派相关的探索。主要有二自由度的视频监控、人脸识别、微信打印机、多媒体展示系统等。
 
 ------
 

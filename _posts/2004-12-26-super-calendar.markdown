@@ -6,7 +6,10 @@ image: /images/software/super-calendar-small.jpg
 categories: [历史上的今天, 万年历]
 ---
 
-　　 <<超级万年历V5.1.0>>列出了从1901年到2050年的150年具体农历新历对照，收录了20世纪中外历史上的一些大事，可以设置定时提醒和在线升级。《超级万年历V3.03》可以查询从1901年到2050年共150年的信息，包括从公历到农历和从农历到公历的转换。从某种意义上说，《超级万年历》的升级过程反映了我学习计算机编程的过程。
+　　 从某种意义上说，《万年历》程序的升级过程反映了我学习计算机编程的一段历程。从最初的的由 Turbo C 2.0 开发的 DOS 版本，到后来用 Visual C++ 6.0 开发的 Win 32 控制台版本，再到后来使用 Visual Basic 6.0、C++ Builder 5.0/6.0 开发的Windows 窗口程序。一路走来，代码不断优化，功能不断完善。
+
+　　 《超级万年历V3.03》可以查询从1901年到2050年共150年的信息，包括从公历到农历和从农历到公历的转换。<<超级万年历V5.1.0>>列出了从1901年到2050年的150年具体农历新历对照，收录了20世纪中外历史上的一些大事，可以设置定时提醒和在线升级。《飞翔万年历6.2》提供从1900--2050年的农历、公历农历节假日、二十四节气、天干地支信息查询，以及世界时区、历史上的今天、星座等功能。
+
 
 <h3>开发历程</h3>
 
@@ -28,6 +31,7 @@ categories: [历史上的今天, 万年历]
 | 2004年12月25日 | 《超级万年历 V 5.1.0》| Windows版    | C++ Builder 5.0编写  | 
 | 2006年2月19日  | 《飞翔万年历 V 6.2.0》| Windows版    | C++ Builder 6.0编写  | 
 {: .table .table-striped .table-hover}
+
 
 <div class="jumbotron">
     <h3>更新日志</h3>
@@ -137,14 +141,6 @@ categories: [历史上的今天, 万年历]
 
 ------
 
-<h3>超级万年历 3.0.0</h3>
-
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_00-01.gif)
-
-![超级万年历]({{site.baseurl}}/images/software/YMD-V3_00-02.gif)
-
-------
-
 <h3>超级万年历 3.0.3</h3>
 
 ![超级万年历 启动屏幕]({{site.baseurl}}/images/software/YMD-V3_03-01.gif)
@@ -160,5 +156,13 @@ categories: [历史上的今天, 万年历]
 ![超级万年历 帮助]({{site.baseurl}}/images/software/YMD-V3_03-06.gif)
 
 ![超级万年历 再见屏幕]({{site.baseurl}}/images/software/YMD-V3_03-05.gif)
+
+------
+
+<h3>超级万年历 3.0.0</h3>
+
+![超级万年历]({{site.baseurl}}/images/software/YMD-V3_00-01.gif)
+
+![超级万年历]({{site.baseurl}}/images/software/YMD-V3_00-02.gif)
 
 ------
