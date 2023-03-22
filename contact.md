@@ -45,7 +45,7 @@ permalink: /contact/
 #fs-frm label,
 #fs-frm legend,
 #fs-frm ::placeholder {
-  font-size: .825rem;
+  font-size: 1rem;
   margin-bottom: .5rem;
   padding-top: .2rem;
   display: flex;
