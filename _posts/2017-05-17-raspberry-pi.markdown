@@ -12,23 +12,39 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 <h3>二自由度视频监控</h3>
 
-![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-01.jpg)
+　　2017年5月
 
-![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-02.jpg)
+![二自由度视频监控]({{site.baseurl}}/images/something/RaspberryPi-01.jpg)
 
-![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-04.jpg)
+![二自由度视频监控]({{site.baseurl}}/images/something/RaspberryPi-02.jpg)
+
+![二自由度视频监控]({{site.baseurl}}/images/something/RaspberryPi-04.jpg)
 
 ------
 
 <h3>人脸识别</h3>
 
-![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-03.jpg)
+　　2017年5月
+
+![人脸识别]({{site.baseurl}}/images/something/RaspberryPi-03.jpg)
+
+------
+
+<h3>微信打印机</h3>
+
+　　2015年5月
+
+![微信打印机]({{site.baseurl}}/images/something/RaspberryPi-微信打印机-1.jpg)
+
+![微信打印机]({{site.baseurl}}/images/something/RaspberryPi-微信打印机-2.jpg)
 
 ------
 
 <h3>多媒体展示系统</h3>
 
-![与树莓派相关的探索]({{site.baseurl}}/images/something/RaspberryPi-05.jpg)
+　　2014年3月
+
+![多媒体展示系统]({{site.baseurl}}/images/something/RaspberryPi-05.jpg)
 
 [多媒体展示系统介绍](https://www.ihonux.com/%E5%A4%9A%E5%AA%92%E4%BD%93/media-display-system/){: target="\_blank"}
 
