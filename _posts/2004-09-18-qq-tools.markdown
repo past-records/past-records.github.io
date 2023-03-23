@@ -6,11 +6,13 @@ image: /images/software/qq-tools-small.jpg
 categories: [QQ, 软件]
 ---
 
-　　 曾经做过几款与 QQ 有关的软件。《心动QQ文字》可以将普通文字转换为醒目大字发送到 QQ 或复制到论坛。《QQ绚丽魔法表情》是一个模仿QQ魔法表情的软件，使用 C++ Builder 5.0 开发。通过获取程序窗口位置的桌面区域背景并设置为网页背景，然后在网页中显示具有透明背景的 swf 文件，最后调用 WebBrowser 控件显示该网页，也就是实现了类似QQ魔法表情的效果。
+　　 曾经做过几款与 QQ 有关的软件。《心动QQ文字》可以将普通文字转换为醒目大字发送到 QQ 或复制到论坛。《QQ绚丽魔法表情》是一个模仿QQ魔法表情的软件，使用 C++ Builder 5.0 开发。通过获取程序窗口位置的桌面区域背景并设置为网页背景，然后在网页中显示具有透明背景的 swf 文件，最后调用 WebBrowser 控件显示该网页，也就是实现了类似QQ魔法表情的效果。《QQ图片文字聊天助手》是专为QQ用户设计的一款辅助软件，它可以帮助大家在QQ聊天过程中向好友发送个性化的字体图片，从而增加聊天乐趣。
 
 ------
 
 <h3>心动QQ文字</h3>
+
+　　2004年9月
 
 <div class="row">
     <div class="col-md-6">
@@ -28,6 +30,8 @@ categories: [QQ, 软件]
 ------
 
 <h3>QQ绚丽魔法表情</h3>
+
+　　2005年1月
 
 <div class="row">
     <div class="col-md-6">
@@ -53,5 +57,23 @@ categories: [QQ, 软件]
         </a>
     </div>
 </div>
+
+------
+
+<h3>Mini QQ Shell</h3>
+
+　　2006年8月
+
+![Mini QQ]({{site.baseurl}}/images/software/MiniQQ.jpg)
+
+![Mini QQ Shell]({{site.baseurl}}/images/software/MiniQQShell.jpg)
+
+------
+
+<h3>QQ图片文字聊天助手</h3>
+
+　　2007年10月
+
+![QQ图片文字聊天助手]({{site.baseurl}}/images/software/QQFontChar-1.jpg)
 
 ------
