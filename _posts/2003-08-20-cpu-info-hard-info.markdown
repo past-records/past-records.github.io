@@ -6,9 +6,14 @@ image: /images/software/cpu-info-small.jpg
 categories: [CPU, CPUID, CPU Info, Hard Info]
 ---
 
-　　从 CPU Info 到 Hard Info
+　　CPU Info is designed to view your CPU Information and other hardwares' information such as memory, harddisk, cd-rom, display, network, operating system.
+
+　　Hard Info 2007 is a shareware hardware diagnostics and useful system tools for PC users, based on the award-winning Volisoft Technology. It offers the world's most accurate hardware information and diagnostics capabilities, including low-level hardware information and system monitoring. 
+
 
 ### CPU Info
+
+　　2003年8月~2004年2月，从1.0到2.0。
 
 ![CPU Info]({{site.baseurl}}/images/software/CPUInfo_V2_0-1.jpg)
 
@@ -18,10 +23,22 @@ categories: [CPU, CPUID, CPU Info, Hard Info]
 
 ### Hard Info
 
+　　2006年3月~2007年4月，从4.0到4.1。从2006的4.0开始CPU Info更名为Hard Info。至于为什么没有3.x版本，那是因为该版本的开发出现了一些问题，没有成功，就跳过了该版本号。
+
+![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-0.jpg)
+
 ![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-1.jpg)
+
+![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-3.jpg)
 
 ![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-2.jpg)
 
-![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-3.jpg)
+------
+
+### CPUID
+
+　　2009年8月
+
+![CPUID]({{site.baseurl}}/images/software/CPUID控制台程序.jpg)
 
 ------
