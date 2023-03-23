@@ -10,6 +10,18 @@ categories: [CPU, CPUID, CPU Info, Hard Info]
 
 　　Hard Info 2007 is a shareware hardware diagnostics and useful system tools for PC users, based on the award-winning Volisoft Technology. It offers the world's most accurate hardware information and diagnostics capabilities, including low-level hardware information and system monitoring. 
 
+### 开发历程
+
+|      日期      |     名称     |      版本     |     开发工具     |
+|---------------|:------------:|--------------:|----------------:|
+| 2003年8月9日   |   CPU Info   |  V 1.0.0.808  | C++ Builder 5.0 | 
+| 2004年1月25日  |   CPU Info   |  V 2.0.1.2    | C++ Builder 5.0 |
+| 2004年1月26日  |   CPU Info   |  V 2.0.1.4    | C++ Builder 5.0 |
+| 2004年2月7日   |   CPU Info   |  V 2.0.1.5    | C++ Builder 5.0 |
+| 2006年3月14日  |   Hard Info  |  V 4.0.3.14   | C++ Builder 6.0 |
+| 2007年4月14日  |   Hard Info  |  V 4.1.5.414  | C++ Builder 6.0 |
+{: .table .table-striped .table-hover}
+
 
 ### CPU Info
 
