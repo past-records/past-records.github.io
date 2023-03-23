@@ -64,8 +64,6 @@ categories: [QQ, 软件]
 
 　　2006年8月
 
-![Mini QQ]({{site.baseurl}}/images/software/MiniQQ.jpg)
-
 ![Mini QQ Shell]({{site.baseurl}}/images/software/MiniQQShell.jpg)
 
 ------
