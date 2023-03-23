@@ -20,7 +20,7 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 ![二自由度视频监控]({{site.baseurl}}/images/something/RaspberryPi-04.jpg)
 
-<video src="{{site.baseurl}}/images/something/RaspberryPi-Web-Control.mp4" controls="controls" width="640px" height="360px"></video>
+<video src="{{site.baseurl}}/images/something/RaspberryPi-Web-Control.mp4" controls="controls" width="100%" height="360px"></video>
 
 ------
 
