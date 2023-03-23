@@ -20,6 +20,8 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 ![二自由度视频监控]({{site.baseurl}}/images/something/RaspberryPi-04.jpg)
 
+<video src="./RaspberryPi-Web-Control.mp4" controls="controls" width="640px" height="360px"></video>
+
 ------
 
 <h3>人脸识别</h3>
