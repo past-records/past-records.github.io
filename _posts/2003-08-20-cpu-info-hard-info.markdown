@@ -25,6 +25,12 @@ categories: [CPU, CPUID, CPU Info, Hard Info]
 
 　　2006年3月~2007年4月，从4.0到4.1。从2006的4.0开始CPU Info更名为Hard Info。至于为什么没有3.x版本，那是因为该版本的开发出现了一些问题，没有成功，就跳过了该版本号。
 
+#### 特点
+
+ + 全面检测底层硬件信息，特别是 CPU 的信息 
+ + 系统监视，包括系统监视、网络监视、进程查看、程序间谍和光驱精灵 
+ + 完全本地化的用户界面，任何人都能够制作语言包 
+
 ![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-0.jpg)
 
 ![Hard Info]({{site.baseurl}}/images/software/HardInfo2007-1.jpg)
