@@ -20,6 +20,7 @@ categories: [CPU, CPUID, CPU Info, Hard Info]
 | 2004年2月7日   |   CPU Info   |  V 2.0.1.5    | C++ Builder 5.0 |
 | 2006年3月14日  |   Hard Info  |  V 4.0.3.14   | C++ Builder 6.0 |
 | 2007年4月14日  |   Hard Info  |  V 4.1.5.414  | C++ Builder 6.0 |
+| 2009年8月22日  |   CPUID      |  V 1.0.3.12   | C++ Builder 6.0 |
 {: .table .table-striped .table-hover}
 
 ------
