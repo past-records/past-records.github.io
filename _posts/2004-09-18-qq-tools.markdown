@@ -58,6 +58,8 @@ categories: [QQ, 软件]
     </div>
 </div>
 
+<video poster="{{site.baseurl}}/images/software/QQMagic-1.jpg" src="{{site.baseurl}}/images/software/QQMagic-Video.mp4" controls="controls" width="100%" height="100%">您的浏览器不支持 video 标签。</video>
+
 ------
 
 <h3>Mini QQ Shell</h3>

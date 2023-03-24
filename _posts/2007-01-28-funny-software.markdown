@@ -49,6 +49,8 @@ categories: [funny, software]
     </div>
 </div>
 
+<video poster="{{site.baseurl}}/images/software/黑客攻击动画-1.jpg" src="{{site.baseurl}}/images/software/黑客攻击动画软件.mp4" controls="controls" width="100%" height="100%">您的浏览器不支持 video 标签。</video>
+
 ------
 
 <h3>聊天机器人</h3>
