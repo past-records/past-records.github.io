@@ -6,7 +6,7 @@ image: /images/something/raspberry-pi-small.jpg
 categories: [树莓派, 电脑, Raspberry Pi]
 ---
 
-　　树莓派是一款只有信用卡大小，采用 ARM 处理器的卡片电脑，能够进行很多创意探索。这时我已经拥有了3个不同型号的树莓派：Raspberry Pi Model B、Raspberry Pi Model B+ 和 Raspberry Pi 2 Model B，也进行了一些与树莓派相关的探索。主要有二自由度的视频监控、人脸识别、微信打印机、多媒体展示系统等。
+　　树莓派是一款只有信用卡大小，采用 ARM 处理器的卡片电脑，能够进行很多创意探索。这时我已经拥有了3个不同型号的树莓派：Raspberry Pi Model B、Raspberry Pi Model B+ 和 Raspberry Pi 2 Model B，也进行了一些与树莓派相关的探索。主要有二自由度的视频监控、远程视频呼叫通话、人脸识别、微信打印机、多媒体展示系统等。
 
 ------
 
@@ -21,6 +21,12 @@ categories: [树莓派, 电脑, Raspberry Pi]
 ![二自由度视频监控]({{site.baseurl}}/images/something/RaspberryPi-04.jpg)
 
 <video poster="{{site.baseurl}}/images/something/RaspberryPi-Web-Control.jpg" src="{{site.baseurl}}/images/something/RaspberryPi-Web-Control.mp4" controls="controls" width="100%" height="100%">您的浏览器不支持 video 标签。</video>
+
+------
+
+<h3>远程视频呼叫通话</h3>
+
+![远程视频呼叫通话]({{site.baseurl}}/images/something/RaspberryPi-07.jpg)
 
 ------
 
