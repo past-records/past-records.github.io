@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SSTV传输图片测试"
+date:   2019-02-15 10:00:00 +0800
+image: /images/something/sstv-test-acsii-small.jpg
+categories: [SSTV, 传输图片, 视频]
+---
+
+　　国际空间站经常利用空间站上的跨段业余无线电转发器发送SSTV图像。本视频中通过两个手机模拟的了这一过程，两台手机之间通过SSTV（慢扫描电视）传输图片，请注意听传输时的声音。
+
+------
+
+<div class="bili">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1Lk4y147UZ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" class="bilibili">
+    </iframe>
+</div>
+
+------
