@@ -13,7 +13,7 @@ categories: [视频, 影片]
 <div class="row">
     <div class="col-md-4">
         <a href="{{site.baseurl}}/images/film/大宝小宝1岁在小王爷游乐场.mp4_20230324_115806.641.jpg" target="_blank">
-            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/大宝小宝1岁在小王爷游乐场.mp4_20230324_115806.641_s.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/film/大宝小宝1岁在小王爷游乐场.mp4_20230324_115806.641_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
@@ -31,7 +31,7 @@ categories: [视频, 影片]
 <div class="row">
     <div class="col-md-4">
         <a href="{{site.baseurl}}/images/film/2017大宝小宝游济南.1080.mp4_20230324_114741.515.jpg" target="_blank">
-            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/2017大宝小宝游济南.1080.mp4_20230324_114741.515_s.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/film/2017大宝小宝游济南.1080.mp4_20230324_114741.515_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
@@ -49,7 +49,7 @@ categories: [视频, 影片]
 <div class="row">
     <div class="col-md-4">
         <a href="{{site.baseurl}}/images/film/2017大宝小宝游静泊山庄.1080.mp4_20230324_114838.441.jpg" target="_blank">
-            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/2017大宝小宝游静泊山庄.1080.mp4_20230324_114838.441_s.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/film/2017大宝小宝游静泊山庄.1080.mp4_20230324_114838.441_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
@@ -76,8 +76,8 @@ categories: [视频, 影片]
         </a>
     </div>
     <div class="col-md-4">
-        <a href="{{site.baseurl}}/images/software/2018大宝小宝海南行.1080.mp4_20230324_115104.274.jpg" target="_blank">
-            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/2018大宝小宝海南行.1080.mp4_20230324_115104.274_s.jpg">
+        <a href="{{site.baseurl}}/images/film/2018大宝小宝海南行.1080.mp4_20230324_115104.274.jpg" target="_blank">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/film/2018大宝小宝海南行.1080.mp4_20230324_115104.274_s.jpg">
         </a>
     </div>
 </div>
@@ -103,7 +103,7 @@ categories: [视频, 影片]
 <div class="row">
     <div class="col-md-4">
         <a href="{{site.baseurl}}/images/film/2019大宝小宝游郑州森林公园.1080.mp4_20230324_115346.648.jpg" target="_blank">
-            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/software/2019大宝小宝游郑州森林公园.1080.mp4_20230324_115346.648_s.jpg">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/film/2019大宝小宝游郑州森林公园.1080.mp4_20230324_115346.648_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
