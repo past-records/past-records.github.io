@@ -112,6 +112,9 @@ categories: [视频, 影片]
         </a>
     </div>
     <div class="col-md-4">
+        <a href="{{site.baseurl}}/images/film/2020大宝小宝动物王国奇妙游.1080.m4v_20230324_141444.184.jpg" target="_blank">
+            <img class="thumbnail thumbnail-border" src="{{site.baseurl}}/images/film/2020大宝小宝动物王国奇妙游.1080.m4v_20230324_141444.184_s.jpg">
+        </a>
     </div>
 </div>
 
