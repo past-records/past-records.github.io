@@ -37,8 +37,6 @@ categories: [童年, 画书]
 
 ------
 
-------
-
 <h3>《恐龙特急克塞号》</h3>
 
 <div class="row">
@@ -129,6 +127,55 @@ categories: [童年, 画书]
     <div class="col-md-3">
         <a href="{{site.baseurl}}/images/childhood/恐龙特急克赛号4.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/childhood/恐龙特急克赛号4.jpg">
+        </a>
+    </div>
+</div>
+
+------
+
+<h3>《托姆与小吉瑞》</h3>
+
+<div class="row">
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞1.jpg">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞2.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞2.jpg">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞3.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞3.jpg">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞4.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞4.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞5.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞5.jpg">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞6.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞6.jpg">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞7.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞7.jpg">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="{{site.baseurl}}/images/childhood/托姆与小吉瑞8.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/childhood/托姆与小吉瑞8.jpg">
         </a>
     </div>
 </div>
