@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "AI老照片上色"
+date:   2022-04-19 10:00:00 +0800
+image: /images/ai/DeOldify-small.jpg
+categories: [AI, 上色, DeOldify]
+---
+
+　　AI老照片上色。
+
+------
+
+![AI老照片上色执行的命令]({{site.baseurl}}/images/ai/DeOldify-Command.jpg)
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/ai/郑州黄河边19810425.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州黄河边19810425.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后.png">
+        </a>
+    </div>
+</div>
+
+------
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后.png">
+        </a>
+    </div>
+</div>
+
+------
