@@ -8,9 +8,11 @@ categories: [AI, 上色, DeOldify]
 
 　　通过PaddleGAN中提供的DeOldify上色模型和RealSR超分模型的处理，对老照片进行上色，使其重新恢复往日的鲜活。
 
+![AI老照片上色执行的命令]({{site.baseurl}}/images/ai/DeOldify-Command.jpg)
+
 ------
 
-![AI老照片上色执行的命令]({{site.baseurl}}/images/ai/DeOldify-Command.jpg)
+<h3>郑州黄河岸边</h3>
 
 <div class="row">
     <div class="col-md-6">
@@ -29,6 +31,8 @@ categories: [AI, 上色, DeOldify]
 
 ------
 
+<h3>暑假学生在郑州大石桥写生</h3>
+
 <div class="row">
     <div class="col-md-6">
         <div class="panel-heading">原始照片</div>
@@ -45,6 +49,8 @@ categories: [AI, 上色, DeOldify]
 </div>
 
 ------
+
+<h3>外国人物</h3>
 
 <div class="row">
     <div class="col-md-6">
