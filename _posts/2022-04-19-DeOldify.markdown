@@ -6,7 +6,7 @@ image: /images/ai/DeOldify-small.jpg
 categories: [AI, 上色, DeOldify]
 ---
 
-　　通过PaddleGAN中提供的DeOldify上色模型和RealSR超分模型的处理，对老照片进行上色，使其重新恢复往日的鲜活。2022年3、4月间，我通过PaddleGAN中提供的处理工具，将家中的黑白老照片进行上色处理，效果令人满意。并用PaddleGAN中提供的FOM算法使姥姥的一张照片“动”了起来——姥姥真正的生动的呈现在我们眼前，宛如当年~
+　　通过PaddleGAN中提供的DeOldify上色模型和RealSR超分模型的处理，对老照片进行上色，使其重新恢复往日的鲜活。2022年3、4月间，我通过PaddleGAN中提供的处理工具，将家中的黑白老照片进行上色处理，效果令人满意。并用PaddleGAN中提供的FOM算法使一张姥姥的照片“动”了起来——姥姥真正的生动的呈现在我们眼前，宛如当年~~
 
 ![AI老照片上色执行的命令]({{site.baseurl}}/images/ai/DeOldify-Command.jpg)
 
