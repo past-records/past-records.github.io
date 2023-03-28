@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "儿时画书（二）"
+title:  "童年的课外书（二）"
 date:   1994-06-01 10:00:00 +0800
-image: /images/childhood/picture-book-2-small.jpg
+image: /images/childhood/childhood-book-2-small.jpg
 categories: [童年, 画书]
 ---
 
