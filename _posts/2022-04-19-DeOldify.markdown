@@ -6,7 +6,7 @@ image: /images/ai/DeOldify-small.jpg
 categories: [AI, 上色, DeOldify]
 ---
 
-　　AI老照片上色。
+　　通过PaddleGAN中提供的DeOldify上色模型和RealSR超分模型的处理，对老照片进行上色，使其重新恢复往日的鲜活。
 
 ------
 
@@ -14,11 +14,13 @@ categories: [AI, 上色, DeOldify]
 
 <div class="row">
     <div class="col-md-6">
+        <div class="panel-heading">原始照片</div>
         <a href="{{site.baseurl}}/images/ai/郑州黄河边19810425.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州黄河边19810425.jpg">
         </a>
     </div>
     <div class="col-md-6">
+        <div class="panel-heading">上色&超分后</div>
         <a href="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后.png" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后.png">
         </a>
@@ -29,11 +31,13 @@ categories: [AI, 上色, DeOldify]
 
 <div class="row">
     <div class="col-md-6">
+        <div class="panel-heading">原始照片</div>
         <a href="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生.jpg">
         </a>
     </div>
     <div class="col-md-6">
+        <div class="panel-heading">上色&超分后</div>
         <a href="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后.png" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后.png">
         </a>
