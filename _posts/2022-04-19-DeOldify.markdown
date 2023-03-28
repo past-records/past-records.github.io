@@ -22,7 +22,7 @@ categories: [AI, 上色, DeOldify]
     <div class="col-md-6">
         <div class="panel-heading">上色&超分后</div>
         <a href="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后.png" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后.png">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州黄河边19810425-AI上色后_s.jpg">
         </a>
     </div>
 </div>
@@ -39,7 +39,24 @@ categories: [AI, 上色, DeOldify]
     <div class="col-md-6">
         <div class="panel-heading">上色&超分后</div>
         <a href="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后.png" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后.png">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/郑州老照片-暑假学生在大石桥写生-AI上色后_s.jpg">
+        </a>
+    </div>
+</div>
+
+------
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="panel-heading">原始照片</div>
+        <a href="{{site.baseurl}}/images/ai/外国人物.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/外国人物_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <div class="panel-heading">上色&超分后</div>
+        <a href="{{site.baseurl}}/images/ai/外国人物-AI上色后.png" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/ai/外国人物-AI上色后_s.jpg">
         </a>
     </div>
 </div>
