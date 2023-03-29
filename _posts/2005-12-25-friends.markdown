@@ -122,6 +122,12 @@ categories: [飞翔通讯录, Friends]
 
 ------
 
+<h3>飞翔通讯录 for Linux (Wine) 4.0 （2017.6）</h3>
+
+![飞翔通讯录]({{site.baseurl}}/images/software/Friends-V4_0_2017_619-Linux.jpg)
+
+------
+
 <h3>飞翔通讯录 Splash 的变迁</h3>
 
 <div class="row">
