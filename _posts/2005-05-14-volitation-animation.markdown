@@ -26,7 +26,7 @@ categories: [飞翔动画]
 
 ------
 
-<h3>KOSEIDON</h3>
+<h3>KOSEIDON Digital Video</h3>
 
 　　2004年10月5日
 
