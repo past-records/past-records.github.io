@@ -32,7 +32,11 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 <h3>远程视频呼叫通话</h3>
 
+　　2017年5月
+
 ![远程视频呼叫通话]({{site.baseurl}}/images/something/RaspberryPi-07.jpg)
+
+![远程视频呼叫通话]({{site.baseurl}}/images/something/RaspberryPi-08.jpg)
 
 ------
 
