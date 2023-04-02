@@ -84,12 +84,24 @@ categories: [黑苹果, Hackintosh]
 <div class="row">
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_230720.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen1-IMG_20150301_232231_s.jpg">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_230720_s.jpg">
         </a>
     </div>
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_233018.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_233018_s.jpg">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-macOSX关于.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-macOSX关于_s.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-macOSX启动台.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-macOSX启动台_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-FinalCutPro.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-FinalCutPro_s.jpg">
         </a>
     </div>
 </div>
