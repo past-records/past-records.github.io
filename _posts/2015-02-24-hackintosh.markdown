@@ -3,7 +3,7 @@ layout: post
 title:  "黑苹果探索之旅"
 date:   2015-02-24 10:00:00 +0800
 image: /images/hackintosh/hackintosh-small.jpg
-categories: [手摇幻灯机, 电影机]
+categories: [黑苹果, Hackintosh]
 ---
 
 　　黑苹果探索之旅。
