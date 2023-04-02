@@ -57,4 +57,41 @@ categories: [黑苹果, Hackintosh]
 
 　　2018~2019
 
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20190831_155956.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20190831_155956_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20190219_192149.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20190219_192149_s.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180804_173700.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180804_173700_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-后视角.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-后视角_s.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_230720.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen1-IMG_20150301_232231_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_233018.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-IMG_20180728_233018_s.jpg">
+        </a>
+    </div>
+</div>
+
 ------
