@@ -89,7 +89,7 @@ categories: [黑苹果, Hackintosh]
     </div>
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/hackintosh/Gen2-macOSX关于.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-macOSX关于_s.jpg">
+            <img class="thumbnail" src="{{site.baseurl}}/images/hackintosh/Gen2-macOSX关于.jpg">
         </a>
     </div>
 </div>
