@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "数字化之旅 2004-2008"
-date:   2004-11-20 10:00:00 +0800
+title:  "数字化之旅 2000-2008"
+date:   2000-11-20 10:00:00 +0800
 image: /images/digital/digital-journey-small.jpg
 categories: [电脑, 笔记本电脑, MP3]
 ---
