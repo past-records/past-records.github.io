@@ -20,9 +20,9 @@ categories: [电脑, 笔记本电脑, MP3]
             <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑/Legend_TX6620_1_s.jpg">
         </a>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6" style="text-align: center;">
         <a href="{{site.baseurl}}/images/digital/第一台电脑/Legend_TX6620_2.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑/Legend_TX6620_2_s.jpg">
+            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台电脑/Legend_TX6620_2_s.jpg">
         </a>
     </div>
 </div>
@@ -63,6 +63,19 @@ categories: [电脑, 笔记本电脑, MP3]
 <h3>第一台数码相机</h3>
 
 　　2004年1月
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-1.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-2.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-2.jpg">
+        </a>
+    </div>
+</div>
 
 ------
 
@@ -119,9 +132,9 @@ categories: [电脑, 笔记本电脑, MP3]
             <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台组装机/AMD-PhenomX3-3_s.jpg">
         </a>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6" style="text-align: center;">
         <a href="{{site.baseurl}}/images/digital/第一台组装机/AMD-PhenomX3-4.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台组装机/AMD-PhenomX3-4_s.jpg">
+            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台组装机/AMD-PhenomX3-4_s.jpg">
         </a>
     </div>
 </div>
