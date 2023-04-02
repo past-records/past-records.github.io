@@ -6,13 +6,13 @@ image: /images/digital/digital-journey-small.jpg
 categories: [电脑, 笔记本电脑, MP3]
 ---
 
-　　数字化之旅 2004-2008
+　　2000年11月份，我拥有了人生第一台电脑——联想天禧6620。2004年1月春节期间，家里买了一台联想V50数码相机，宣称拥有500万像素。同年2月，我有了一台联想MP3随身听。2005年9月，我拥有了一台Acer Aspire 5022笔记本电脑，宣称使用了第一款移动64位处理器。2008年11月，我自己组装了第一台电脑，使用了AMD 3核处理器。
 
 ------
 
 <h3>第一台电脑</h3>
 
-　　2000年11月
+　　2000年11月，我拥有一台天禧6620电脑，宝螺蓝色。主机的配置：CPU是Intel Pentium III 866MHz，内存64M、硬盘20G，显卡为810e主板上的集成显卡，带有调制解调器。配备了17寸的CRT彩色显示器、因特网键盘、滚轮鼠标、手写板、耳麦以及联想贴牌的彩色喷墨打印机和扫描仪，还送了一张电脑桌。
 
 <div class="row">
     <div class="col-md-6">
@@ -39,24 +39,7 @@ categories: [电脑, 笔记本电脑, MP3]
     </div>
 </div>
 
-------
-
-<h3>第一台MP3随身听</h3>
-
-　　2004年2月
-
-<div class="row">
-    <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-1.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-1_s.jpg">
-        </a>
-    </div>
-    <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-2.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-2_s.jpg">
-        </a>
-    </div>
-</div>
+[我的第一台电脑——联想天禧6620](https://cpu.ihonux.com/the_first_computer_of_honux.html)
 
 ------
 
@@ -73,6 +56,25 @@ categories: [电脑, 笔记本电脑, MP3]
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-2.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-2.jpg">
+        </a>
+    </div>
+</div>
+
+------
+
+<h3>第一台MP3随身听</h3>
+
+　　2004年2月
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-1_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-2.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/MP3播放器/Lenovo-MP3-2_s.jpg">
         </a>
     </div>
 </div>
