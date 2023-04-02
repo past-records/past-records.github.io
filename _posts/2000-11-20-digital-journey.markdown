@@ -76,7 +76,7 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
 
 <h3>第一台MP3随身听</h3>
 
-　　购买时间：2004年2月。型号：联想数码听F860。
+　　购买时间：2004年2月。型号：联想数码听F860（128M容量）。
 
 <div class="row">
     <div class="col-md-6">
@@ -126,7 +126,7 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
 
 <h3>第一台组装机</h3>
 
-　　2008年11月
+　　组装时间：2008年11月。CPU：AMD Phenom 64×3 8450 盒装；主板：技嘉 GA-MA770-DS3 主板 REV 2.0；内存：OCZ2VU8004GK 套装（2条DDR2 800 2G）；硬盘：希捷 500G 7200转 32M SATAII；显卡：影驰 9800GTX+ 上将版（738/2200 512M/256位 DDR3 PCI-E HDMI）；电源：康舒 IP 470。
 
 <div class="row">
     <div class="col-md-6">
