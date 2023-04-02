@@ -14,6 +14,8 @@ categories: [电脑, 笔记本电脑, MP3]
 
 　　2000年11月，我拥有一台天禧6620电脑，宝螺蓝色。主机的配置：CPU是Intel Pentium III 866MHz，内存64M、硬盘20G，显卡为810e主板上的集成显卡，带有调制解调器。配备了17寸的CRT彩色显示器、因特网键盘、滚轮鼠标、手写板、耳麦以及联想贴牌的彩色喷墨打印机和扫描仪，还送了一张电脑桌。
 
+　　更多内容，请阅读[《我的第一台电脑——联想天禧6620》](https://cpu.ihonux.com/the_first_computer_of_honux.html)一文。
+
 <div class="row">
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/digital/第一台电脑/Legend_TX6620_1.jpg" target="_blank">
@@ -39,8 +41,6 @@ categories: [电脑, 笔记本电脑, MP3]
     </div>
 </div>
 
-[我的第一台电脑——联想天禧6620](https://cpu.ihonux.com/the_first_computer_of_honux.html)
-
 ------
 
 <h3>第一台数码相机</h3>
@@ -56,6 +56,18 @@ categories: [电脑, 笔记本电脑, MP3]
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-2.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-2.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-3.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-3.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-4.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台数码相机/Lenovo-V50-4.jpg">
         </a>
     </div>
 </div>
