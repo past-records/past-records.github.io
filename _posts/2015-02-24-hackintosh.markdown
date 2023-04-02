@@ -6,13 +6,13 @@ image: /images/hackintosh/hackintosh-small.jpg
 categories: [黑苹果, Hackintosh]
 ---
 
-　　黑苹果探索之旅。
+　　我的黑苹果探索之旅分为两个阶段：第一阶段从2015年~2016年，我开始在一台CPU为Intel Core 2 QUAD Q6600，主板为华硕P5Q Pro，内存为8G DDR2，显卡为NVIDIA GeForce 9800GTX+的主机上尝试安装Mac OS X 10.10（Yosemite），经过了连续几个晚上的奋战，终于安装成功。从2017年开始制作的“自制影片”就是在这台黑苹果上用Final Cut Pro剪辑完成的。我既发现了Final Cut Pro进行视频剪辑非常便利，又感觉到了这台主机的性能严重不足。从2018年~2019年，我开始了第二阶段的黑苹果探索，在一台CPU为Intel Core i5-4460，主板为技嘉H81M-DS2，内存为16G DDR3，显卡为ATI Radeon RX 560的主机上尝试安装Mac OS 10.13.6（High Sierra），经过几天的努力，安装成功。在新的主机上使用Final Cut Pro进行视频剪辑的流畅度大大提升。后来，又增加了固态硬盘。
 
 ------
 
 <h3>第一代黑苹果</h3>
 
-　　2015~2016
+　　2015年~2016年
 
 <div class="row">
     <div class="col-md-6">
@@ -55,7 +55,7 @@ categories: [黑苹果, Hackintosh]
 
 <h3>第二代黑苹果</h3>
 
-　　2018~2019
+　　2018年~2019年
 
 <div class="row">
     <div class="col-md-6">
