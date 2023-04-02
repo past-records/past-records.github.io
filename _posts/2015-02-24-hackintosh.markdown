@@ -46,7 +46,7 @@ categories: [黑苹果, Hackintosh]
     </div>
     <div class="col-md-6" style="text-align: center;">
         <a href="{{site.baseurl}}/images/hackintosh/Gen1-IMG_20150313_120700.jpg" target="_blank">
-            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/hackintosh/Gen1-IMG_20150313_120700_s.jpg">
+            <img class="thumbnail" style="height: 197px;" src="{{site.baseurl}}/images/hackintosh/Gen1-IMG_20150313_120700_s.jpg">
         </a>
     </div>
 </div>
