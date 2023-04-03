@@ -50,9 +50,9 @@ categories: [光盘库, CD, DVD]
 ![光盘保存箱]({{site.baseurl}}/images/disk/光盘保存箱-1.jpg)
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6" style="text-align: center;">
         <a href="{{site.baseurl}}/images/disk/光盘保存箱-2.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/disk/光盘保存箱-2_s.jpg">
+            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/disk/光盘保存箱-2_s.jpg">
         </a>
     </div>
     <div class="col-md-6">
