@@ -14,16 +14,19 @@ categories: [黑群晖, 群晖, Synology]
 
 <div class="row">
     <div class="col-md-4">
+        <div class="panel-heading">机箱侧前方</div>
         <a href="{{site.baseurl}}/images/synology/黑群晖-侧前.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/synology/黑群晖-侧前_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
+        <div class="panel-heading">机箱后部</div>
         <a href="{{site.baseurl}}/images/synology/黑群晖-后面.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/synology/黑群晖-后面_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
+        <div class="panel-heading">机箱底部</div>
         <a href="{{site.baseurl}}/images/synology/黑群晖-底部.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/synology/黑群晖-底部_s.jpg">
         </a>
@@ -31,16 +34,19 @@ categories: [黑群晖, 群晖, Synology]
 </div>
 <div class="row">
     <div class="col-md-4">
+        <div class="panel-heading">主板、CPU、内存</div>
         <a href="{{site.baseurl}}/images/synology/黑群晖-主板.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/synology/黑群晖-主板_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
+        <div class="panel-heading">启动引导优盘</div>
         <a href="{{site.baseurl}}/images/synology/黑群晖-引导盘.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/synology/黑群晖-引导盘_s.jpg">
         </a>
     </div>
     <div class="col-md-4">
+        <div class="panel-heading">内置硬盘位</div>
         <a href="{{site.baseurl}}/images/synology/黑群晖-硬盘位3.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/synology/黑群晖-硬盘位3_s.jpg">
         </a>
