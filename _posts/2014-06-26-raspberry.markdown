@@ -12,8 +12,8 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 <div class="row">
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/something/raspberry-3.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-3.jpg">
+        <a href="{{site.baseurl}}/images/something/raspberry-6.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-6.jpg">
         </a>
     </div>
     <div class="col-md-6">
@@ -29,8 +29,8 @@ categories: [树莓派, 电脑, Raspberry Pi]
         </a>
     </div>
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/something/raspberry-6.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-6.jpg">
+        <a href="{{site.baseurl}}/images/something/raspberry-1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-1.jpg">
         </a>
     </div>
 </div>
