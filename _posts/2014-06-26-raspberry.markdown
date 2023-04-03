@@ -24,18 +24,6 @@ categories: [树莓派, 电脑, Raspberry Pi]
 </div>
 <div class="row">
     <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/something/raspberry-3.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-3.jpg">
-        </a>
-    </div>
-    <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/something/raspberry-4.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-4.jpg">
-        </a>
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-6">
         <a href="{{site.baseurl}}/images/something/raspberry-5.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-5.jpg">
         </a>
@@ -43,6 +31,19 @@ categories: [树莓派, 电脑, Raspberry Pi]
     <div class="col-md-6">
         <a href="{{site.baseurl}}/images/something/raspberry-6.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-6.jpg">
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-3.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-3.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-4.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-4.jpg">
         </a>
     </div>
 </div>
@@ -56,15 +57,6 @@ categories: [树莓派, 电脑, Raspberry Pi]
         <a href="{{site.baseurl}}/images/something/raspberry-8.jpg" target="_blank">
             <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-8.jpg">
         </a>
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-6">
-        <a href="{{site.baseurl}}/images/something/raspberry-9.jpg" target="_blank">
-            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-9.jpg">
-        </a>
-    </div>
-    <div class="col-md-6">
     </div>
 </div>
 
