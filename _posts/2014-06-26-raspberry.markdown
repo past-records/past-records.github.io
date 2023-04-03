@@ -10,39 +10,63 @@ categories: [树莓派, 电脑, Raspberry Pi]
 
 ------
 
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-1.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-2.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-3.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-4.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-5.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-6.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-7.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-8.jpg)
-
-------
-
-![树莓派平板电脑]({{site.baseurl}}/images/something/raspberry-9.jpg)
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-1.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-1.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-2.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-2.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-3.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-3.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-4.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-4.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-5.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-5.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-6.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-6.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-7.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-7.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-8.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-8.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/something/raspberry-9.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/something/raspberry-9.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+    </div>
+</div>
 
 ------
 
