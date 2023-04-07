@@ -3,6 +3,7 @@ layout: post
 title:  "我的网站3.1 —— Kodonsoft"
 date:   2003-08-15 10:00:00 +0800
 image: /images/web/mypages-v3-cn-small.jpg
+site: http://site.ihonux.com:13580/0/my-pages-v3/
 categories: [网站, 我的网站, Kodonsoft]
 ---
 

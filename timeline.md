@@ -28,7 +28,7 @@ title: 建站历程时间轴
           <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
           <a class="btn-more" href="{{ post.url }}">详情</a>
           {% if post.site %}
-          <a class="btn-more" href="post.site" target="_blank">回看</a>
+          <a class="btn-more" href="{{ post.site }}" target="_blank">回看</a>
           {% endif %}
         </div>
     </div>

@@ -3,6 +3,7 @@ layout: post
 title:  "我的网站4.1 —— Koseidon"
 date:   2004-02-11 10:00:00 +0800
 image: /images/web/mypages-v4-small.jpg
+site: http://site.ihonux.com:13580/koseidon21cn/
 categories: [网站, 我的网站, Koseidon]
 ---
 

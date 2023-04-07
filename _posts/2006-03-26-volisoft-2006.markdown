@@ -3,6 +3,7 @@ layout: post
 title:  "我心飞翔-飞翔软件 2006"
 date:   2006-03-26 10:00:00 +0800
 image: /images/web/volisoft-2006-small.jpg
+site: http://site.ihonux.com:13580/Volisoft/index2.asp
 categories: [网站, 我的网站, Volisoft, 飞翔软件, 我心飞翔]
 ---
 
