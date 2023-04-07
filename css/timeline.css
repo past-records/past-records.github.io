@@ -123,6 +123,11 @@ header p {
   color: #FFFFFF;
   text-decoration: none;
 }
+.timeline-content h2 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
 
 .timeline-card {
   padding: 0 !important;
