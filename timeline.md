@@ -13,7 +13,7 @@ layout: timeline
           <div class="timeline-img-header">
             <h2>{{ post.title }}</h2>
           </div>
-        {else}
+        {% else %}
         <div class="timeline-content">
           <h2>{{ post.title }}</h2>
         {% endif %}
