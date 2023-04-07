@@ -3,7 +3,7 @@ layout: post2
 title:  "Connect With Me 网站"
 date:   2005-07-06 10:00:00 +0800
 image: /images/web/connect-with-me-web-small.jpg
-categories: [通讯录, Connect With Me, Web]
+categories: [网站, 通讯录, Connect With Me, Web]
 ---
 
 　　这是一款班级通讯录软件，班级成员使用自己的账号登录后可以修改自己的信息，查看其他同学的信息。这也是我开发的第一款 B/S + C/S 的软件，用户可以通过网站访问，也可以通过 Connect With Me 客户端访问。服务器端使用 ASP + Access 编写，客户端使用 C++ Builder 5.0 开发。由于服务器使用的是国外免费的空间，所以速度无法保证。

@@ -3,7 +3,7 @@ layout: post
 title:  "飞翔软件 2014"
 date:   2014-03-18 10:00:00 +0800
 image: /images/web/volisoft-2014-small.jpg
-categories: [我的网站, Volisoft, 飞翔软件]
+categories: [网站, 我的网站, Volisoft, 飞翔软件]
 ---
 
 　　飞翔软件（Volisoft）2014 版采用 WordPress 开源程序，对网站进行了全新设计。后来由于各种原因，我没有再给虚拟主机和域名续费，飞翔软件（Volisoft）也成为了历史。但我并没有停止对新技术追求步伐，一切还在继续……

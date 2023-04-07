@@ -3,7 +3,7 @@ layout: post
 title:  "郑州十一中003班主页 4.0"
 date:   2001-06-02 10:00:00 +0800
 image: /images/web/zz11z-003-v4-small.jpg
-categories: [郑州十一中, 003]
+categories: [网站, 郑州十一中, 003]
 ---
 
 　　这是郑州十一中003班主页的一个后续版本，我记得这时候已经开始使用 Dreamweaver 这款网页制作工具。同时，也开始使用 Flash 制作工具，我成为了一名“闪客”。她曾经的网址：http://friendly003.at.china.com。

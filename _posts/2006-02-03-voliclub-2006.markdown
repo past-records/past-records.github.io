@@ -3,7 +3,7 @@ layout: post
 title:  "飞翔论坛 2006"
 date:   2006-02-03 10:00:00 +0800
 image: /images/web/voliclub-2006-small.jpg
-categories: [我的网站, Voliclub, 飞翔论坛]
+categories: [网站, 我的网站, Voliclub, 飞翔论坛]
 ---
 
 　　飞翔论坛（Voliclub）于 2006 年春节期间开通运行。2006年1月22日，飞翔软件网站全新改版，建立起了以“我心飞翔”为母网站，下分“飞翔软件”、“飞翔心情”和“飞翔论坛”子网站的全新格局。

@@ -3,7 +3,7 @@ layout: post
 title:  "我的网站4.1 —— Koseidon"
 date:   2004-02-11 10:00:00 +0800
 image: /images/web/mypages-v4-small.jpg
-categories: [我的网站, Koseidon]
+categories: [网站, 我的网站, Koseidon]
 ---
 
 　　Koseidon 创立于2004年1月12日，其前身是我从2001年2月1日开始构建于免费空间上的主页。本网站是我的个人网站，其主要用途是将我的原创软件和心得体会公布出来与大家分享，并在此为我的软件提供必要的技术支持。
