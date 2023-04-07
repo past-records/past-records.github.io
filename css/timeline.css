@@ -106,6 +106,7 @@ header p {
   margin-left: -15px;
 }
 
+/*
 a {
   background: #3F51B5;
   color: #FFFFFF;
@@ -123,6 +124,7 @@ a:hover, a:active, a:focus {
   color: #FFFFFF;
   text-decoration: none;
 }
+*/
 
 .timeline-card {
   padding: 0 !important;
