@@ -12,7 +12,7 @@ layout: timeline
           <h2>{{ post.title }}</h2>
           <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
           <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
-          <a class="bnt-more" href="javascript:void(0)">More</a>
+          <a class="btn-more" href="javascript:void(0)">More</a>
         </div>
       </div>
     {% endif %}
