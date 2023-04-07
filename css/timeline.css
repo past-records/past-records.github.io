@@ -106,7 +106,7 @@ header p {
   margin-left: -15px;
 }
 
-.btn-more a {
+.timeline-content a {
   background: #3F51B5;
   color: #FFFFFF;
   padding: 8px 20px;
@@ -118,7 +118,7 @@ header p {
   border-radius: 2px;
   box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
 }
-.btn-more a:hover, a:active, a:focus {
+.timeline-content a:hover, a:active, a:focus {
   background: #32408f;
   color: #FFFFFF;
   text-decoration: none;
