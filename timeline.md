@@ -3,6 +3,12 @@ layout: timeline
 title: 建站历程时间线
 ---
 
+<header>
+  <div class="container text-center">
+    <h1>建站历程时间线</h1>
+    <p>Honux</p>
+  </div>
+</header>
 <section class="timeline">
   <div class="container">
   {% for post in site.posts reversed %}
