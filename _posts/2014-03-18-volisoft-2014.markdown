@@ -3,6 +3,7 @@ layout: post
 title:  "飞翔软件 2014"
 date:   2014-03-18 10:00:00 +0800
 image: /images/web/volisoft-2014-small.jpg
+site: http://site.ihonux.com:13579/
 categories: [网站, 我的网站, Volisoft, 飞翔软件]
 ---
 

@@ -26,8 +26,10 @@ title: 建站历程时间轴
         {% endif %}
           <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
           <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
-          <a class="btn-more" href="javascript:void(0)">访问网站</a>
-          <a class="btn-more" href="{{ post.url }}">详细介绍</a>
+          <a class="btn-more" href="{{ post.url }}">详情</a>
+          {% if post.site %}
+          <a class="btn-more" href="post.site" target="_blank">回看</a>
+          {% endif %}
         </div>
     </div>
     {% endif %}

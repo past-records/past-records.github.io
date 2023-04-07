@@ -3,6 +3,7 @@ layout: post
 title:  "飞翔软件 2011"
 date:   2011-12-12 10:00:00 +0800
 image: /images/web/volisoft-2011-small.jpg
+site: http://site.ihonux.com:13580/
 categories: [网站, 我的网站, Volisoft, 飞翔软件]
 ---
 
