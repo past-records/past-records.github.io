@@ -10,7 +10,7 @@ layout: timeline
       <div class="timeline-img"></div>
         {% if post.image %}
         <div class="timeline-content timeline-card">
-          <div class="timeline-img-header">
+          <div class="timeline-img-header" style="background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url('{{ post.image }}') center center no-repeat; background-size: cover;">
             <h2>{{ post.title }}</h2>
           </div>
         {% else %}
