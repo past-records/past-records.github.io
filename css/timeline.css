@@ -1,5 +1,5 @@
 section {
-  padding: 100px 0;
+  padding: 1px 0;
 }
 
 html, body {
@@ -23,7 +23,7 @@ h1 {
 header {
   /*background: #3F51B5;
   color: #FFFFFF;*/
-  padding: 15px 0;
+  padding: 30px 0;
 }
 header p {
   font-family: 'Allura';
