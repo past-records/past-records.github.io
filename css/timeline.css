@@ -149,6 +149,7 @@ header p {
   position: absolute;
   bottom: 5px;
   left: 20px;
+  text-shadow: 2px 2px 5px #e50b0bcc;
 }
 
 blockquote {
