@@ -20,9 +20,9 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
             <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-0_s.jpg">
         </a>
     </div>
-    <div class="col-md-6" style="text-align: center;">
+    <div class="col-md-6">
         <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-1.jpg" target="_blank">
-            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-1_s.jpg">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-1_s.jpg">
         </a>
     </div>
 </div>
@@ -36,6 +36,15 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
         <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-4.jpg" target="_blank">
             <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-4_s.jpg">
         </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6" style="text-align: center;">
+        <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-5.jpg" target="_blank">
+            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-5_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
     </div>
 </div>
 
