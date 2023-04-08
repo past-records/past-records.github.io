@@ -10,6 +10,37 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
 
 ------
 
+<h3>第一台电脑学习机</h3>
+
+　　1996年初二的时候，我拥有一台超霸电脑学习机。
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-0.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-0_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6" style="text-align: center;">
+        <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-1.jpg" target="_blank">
+            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-1_s.jpg">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-3.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-3_s.jpg">
+        </a>
+    </div>
+    <div class="col-md-6" style="text-align: center;">
+        <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-4.jpg" target="_blank">
+            <img class="thumbnail" style="height: 262px;" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-4_s.jpg">
+        </a>
+    </div>
+</div>
+
+------
+
 <h3>第一台电脑</h3>
 
 　　2000年11月，我拥有一台天禧6620电脑，宝螺蓝色。主机的配置：CPU是Intel Pentium III 866MHz，内存64M、硬盘20G，显卡为810e主板上的集成显卡，带有调制解调器。配备了17寸的CRT彩色显示器、因特网键盘、滚轮鼠标、手写板、耳麦以及联想贴牌的彩色喷墨打印机和扫描仪，还送了一张电脑桌。后来，内存升级到256M，硬盘升级到120G，加装了以太网卡和PCI显卡。
