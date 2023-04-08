@@ -45,7 +45,7 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
         </a>
     </div>
     <div class="col-md-6">
-        <video poster="{{site.baseurl}}/images/something/XBW-YYCB.jpg" src="{{site.baseurl}}/images/digital/第一台电脑学习机/XBW-YYCB.mp4" controls="controls" width="100%" height="100%">您的浏览器不支持 video 标签。</video>
+        <video poster="{{site.baseurl}}/images/digital/第一台电脑学习机/XBW-YYCB.jpg" src="{{site.baseurl}}/images/digital/第一台电脑学习机/XBW-YYCB.mp4" controls="controls" width="100%" height="100%">您的浏览器不支持 video 标签。</video>
     </div>
 </div>
 
