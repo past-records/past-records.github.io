@@ -45,6 +45,9 @@ categories: [电脑, 笔记本电脑, 数码相机, MP3]
         </a>
     </div>
     <div class="col-md-6">
+        <a href="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-6.jpg" target="_blank">
+            <img class="thumbnail" src="{{site.baseurl}}/images/digital/第一台电脑学习机/CB-6_s.jpg">
+        </a>
     </div>
 </div>
 
