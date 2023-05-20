@@ -17,7 +17,7 @@ categories: [博物馆, CPU, CPU博物馆]
 ------
 
 <div class="bili">
-    <iframe src="//player.bilibili.com/player.html?aid=356315492&bvid=BV1xX4y1C7fD&cid=1136215996&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    <iframe src="//player.bilibili.com/player.html?aid=356315492&bvid=BV1xX4y1C7fD&cid=1136215996&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" class="bilibili"> </iframe>
 </div>
 
 ------
