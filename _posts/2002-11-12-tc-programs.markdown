@@ -6,7 +6,7 @@ image: /images/software/tc-programs-small.jpg
 categories: [Turbo C, TC, DOS]
 ---
 
-　　 大学期间学习 C 语言编程就是从 Turbo C 开始的，一些练习、作业都是用 TC 完成的。本页分享了一些当年用 Turbo C 制作的一些程序。这些程序可以通过访问我的“电脑博物馆”网站在网页中体验。通过 DOSBOX 模拟器，完全模拟了 DOS 环境、成功运行了 UCDOS 和 Turbo C 2.0 ，点击[这里](http://museum.ihonux.com:86/emularity.html?machine=tc20)开始体验。
+　　 大学期间学习 C 语言编程就是从 Turbo C 开始的，一些练习、作业都是用 TC 完成的。本页分享了一些当年用 Turbo C 制作的一些程序。这些程序上传到我的“[***电脑博物馆***](http://museum.ihonux.com:86/)”网站，可以在网页中体验。通过 DOSBOX 模拟器，在网页中完全模拟了 DOS 环境、成功运行了 UCDOS 和 Turbo C 2.0 ，点击[***这里***](http://museum.ihonux.com:86/emularity.html?machine=tc20)开始体验。
 
 ------
 
