@@ -8,7 +8,7 @@ categories: [电脑博物馆, 家用游戏博物馆, DOS游戏博物馆, CPU博�
 
 　　电脑博物馆 + 家用游戏博物馆 + DOS游戏博物馆 + CPU博物馆 + Flash档案馆是一组服务于教育，公益性的在线博物馆。它坚守人们建设互联网最初的愿景：开放、平等和免费的访问信息。
 
-　　**电脑博物馆**是一个在线交互式的计算机博物馆，在网页模拟器中重现电脑发展史。通过 JavaScript 来模拟 1970 年代 —— 1990 年代流行的电脑硬件和软件，让您体验它们缓慢的 CPU、低分辨率显示器和原始声音效果。
+　　**电脑博物馆**是一个在线交互式的计算机博物馆，在网页模拟器中重现电脑发展史。通过 JavaScript 来模拟 1970 年代 —— 2000 年代流行的电脑硬件和软件，让您体验它们缓慢的 CPU、低分辨率显示器和原始声音效果。
 
 　　**家用游戏博物馆**是个在线交互式的电子游戏博物馆，通过 JavaScript 模拟那些历史上由中国大陆及港澳台地区开发者开发的，以家用游戏机和掌上游戏机为平台的电子游戏。用户无需安装即可体验。
 
@@ -16,9 +16,17 @@ categories: [电脑博物馆, 家用游戏博物馆, DOS游戏博物馆, CPU博�
 
 　　**CPU博物馆**是一个致力于传承和推广CPU文化的非盈利性项目，我希望通过这个网站，能让更多的人了解CPU的魅力和价值，也能激发更多的人对CPU的兴趣和热情。在这个网站上，您可以浏览我多年来收集的各种CPU，从最早的Intel 4004到最新的Intel Core，从8位到64位，从单核到多核，从英特尔到AMD，从x86到ARM，从桌面到移动，从商用到工程样品，应有尽有。您可以看到每个CPU的外观、参数、功能、历史、故事和趣闻。您也可以与其他CPU爱好者交流心得和经验，或者向我提出问题和建议。
 
-　　**Flash档案馆**收录了8000多个历史上热门的各类Falsh动画，通过 JavaScript + HTML5 进行渲染播放，无需安装已经过时的且不再被现代浏览器支持的 Flash 插件。
+　　**Flash档案馆**收录了8000多个历史上热门的各类Falsh动画，通过 Ruffle 技术进行渲染播放，无需安装已经过时的且不再被现代浏览器支持的 Flash 插件。
 
-　　欢迎参观我的电脑博物馆网站：**<http://museum.ihonux.com:86/>** ！
+　　欢迎参观我的电脑博物馆网站：**<https://dnbwg.ihonux.com>** 或 **<https://cm.ihonux.com>** ！
+
+------
+
+<div class="bili">
+    <iframe src="//player.bilibili.com/player.html?aid=826589530&bvid=BV17u4y1f7gc&cid=1142812727&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" class="bilibili"> </iframe>
+</div>
+
+------
 
 ![电脑博物馆]({{site.baseurl}}/images/museum/museum.ihonux.com.jpg)
 
