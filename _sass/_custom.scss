@@ -18,3 +18,12 @@
     height: 100%;
     border: 0;
 }
+
+.twikoo {
+    position: relative;
+    margin-top: 50px;
+}
+
+.tk-input-image[type=file] {
+    display: none;
+}
